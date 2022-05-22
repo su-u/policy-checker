@@ -15,4 +15,12 @@ export const SITES = [
     url: 'https://developer.twitter.com/ja/developer-terms/policy',
     name: 'twitter-developer-terms-policy',
   },
+  {
+    url: 'https://twitter.com/ja/privacy',
+    name: 'twitter-privacy',
+  },
+  {
+    url: 'https://twitter.com/ja/tos',
+    name: 'twitter-tos',
+  },
 ];
