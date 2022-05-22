@@ -1,6 +1,6 @@
-import { request, writeFile, format } from './util';
 const jsdom = require('jsdom');
 const {JSDOM} = jsdom;
+import { request, writeFile, format } from './util';
 import { SITES } from './sites';
 
 const removeUnnecessaryDom = (dom: any) => {
@@ -18,6 +18,15 @@ const removeUnnecessaryDom = (dom: any) => {
   dom.window.document.querySelectorAll('[class]').forEach((element: any) => element.removeAttribute('class'));
   dom.window.document.querySelectorAll('[data-value]').forEach((element: any) => element.removeAttribute('data-value'));
   dom.window.document.querySelectorAll('[action]').forEach((element: any) => element.removeAttribute('action'));
+  dom.window.document.querySelectorAll('[src]').forEach((element: HTMLElement) => {
+    const src = element.getAttribute('src');
+    src && element.setAttribute('src', src?.replace(/\?.*$/,""))
+  });
+  dom.window.document.querySelectorAll('[href]').forEach((element: HTMLElement) => {
+    const src = element.getAttribute('href');
+    src && element.setAttribute('href', src?.replace(/\?.*$/,""))
+  });
+
 
   // Node
   dom.window.document.querySelectorAll('link').forEach((element: any) => element.remove());
