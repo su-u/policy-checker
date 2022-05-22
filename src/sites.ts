@@ -44,19 +44,19 @@ export const SITES = [
     name: '【Twitter】Twitterサービス利用規約',
   },
   {
-    url: 'https://transparency.fb.com/ja-jp/policies/community-standards',
+    url: 'https://transparency.fb.com/ja-jp/policies/community-standards?locale=ja_JP',
     name: '【Facebook】Facebookコミュニティ規定',
   },
   {
-    url: 'https://help.instagram.com/477434105621119/',
+    url: 'https://help.instagram.com/477434105621119/?locale=ja_JP',
     name: '【Instagram】Instagramコミュニティガイドライン',
   },
   {
-    url: 'https://developers.facebook.com/devpolicy/',
+    url: 'https://developers.facebook.com/devpolicy/?locale=ja_JP',
     name: '【Meta】Meta開発者ポリシー',
   },
   {
-    url: 'https://developers.facebook.com/terms/',
+    url: 'https://developers.facebook.com/terms/?locale=ja_JP',
     name: '【Meta】Metaプラットフォーム利用規約',
   }
 ];
