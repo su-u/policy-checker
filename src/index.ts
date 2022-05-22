@@ -23,6 +23,7 @@ const getSite = async (url: string, name: string) => {
   console.log(`${name}: ${statusCode}`);
   if (statusCode === 200) {
     const dom = new JSDOM(await body.text());
+    dom.window.document.querySelectorAll('[data-json-str]').forEach((element: any) => element.removeAttribute('data-json-str'));
     const html = format(dom.window.document.querySelector('body').outerHTML);
     writeFile(`${__dirname}/../dist/${name}`, html);
   }
