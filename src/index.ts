@@ -51,6 +51,6 @@ const getSite = async (url: string, name: string) => {
 
 (async () => {
    for (const { url, name } of SITES) {
-    await getSite(url, name);
+    getSite(url, name);
    }
 })();
