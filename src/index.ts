@@ -41,7 +41,7 @@ const writeHTML = (text: string, name: string) => {
 
   removeUnnecessaryDom(dom);
   const html = format(dom.window.document.querySelector('body').outerHTML);
-  writeFile(`${__dirname}/../dist/${name}.html`, html);
+  writeFile(`${__dirname}/../html/${name}.html`, html);
 };
 
 
