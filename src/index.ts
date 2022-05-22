@@ -6,8 +6,9 @@ const { JSDOM } = jsdom;
 
 
 const writeFile = (path: string, data: string) => {
-  fs.appendFile(path, data, function (err: any) {
+  fs.writeFile(path, data, function (err: any) {
     if (err) {
+      console.error(err);
       throw err;
     }
   });
@@ -17,11 +18,11 @@ const getSite = async (url: string, name: string) => {
   const {
     statusCode,
     body
-  } = await request('https://github.com/nodejs/undici')
+  } = await request(url)
   console.log(`${name}: ${statusCode}`);
   if (statusCode === 200) {
     const dom = new JSDOM(await body.text());
-    writeFile(`${__dirname}/${name}`, dom.window.document.querySelector('body').outerHTML);
+    writeFile(`${__dirname}/../dist/${name}`, dom.window.document.querySelector('body').outerHTML);
   }
 }
 
