@@ -23,8 +23,8 @@ const removeUnnecessaryDom = (dom: any) => {
     src && element.setAttribute('src', src?.replace(/\?.*$/,""))
   });
   dom.window.document.querySelectorAll('[href]').forEach((element: HTMLElement) => {
-    const src = element.getAttribute('href');
-    src && element.setAttribute('href', src?.replace(/\?.*$/,""))
+    const href = element.getAttribute('href');
+    href && element.setAttribute('href', href?.replace(/\?.*$/,""))
   });
 
 
