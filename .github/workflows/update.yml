@@ -15,7 +15,7 @@ jobs:
         with:
           path: |
             node_modules
-          key: node-v${{ matrix.node-version }}-deps-${{ hashFiles('/yarn.lock') }}
+          key: node-v${{ matrix.node-version }}-deps-${{ hashFiles('./yarn.lock') }}
       - name: Yarn Install
         run: |
           yarn install
