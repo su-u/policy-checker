@@ -6,5 +6,9 @@ export const SITES = [
   {
     url: 'https://developer.twitter.com/ja/more/developer-terms',
     name: 'twitter-developer-terms',
+  },
+  {
+    url: 'https://developer.twitter.com/ja/developer-terms/agreement',
+    name: 'twitter-developer-terms-agreement',
   }
 ];
