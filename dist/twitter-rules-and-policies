@@ -1,0 +1,2141 @@
+<body class="twtr-theme--blue
+  page content-page
+  page--
+
+  twtr-color-bg--white-neutral
+
+  js-no-scroll
+  atm-light"style="--theme-color: var(--blue-dark)" data-analytics-page="help"
+  data-analytics-section="rules-and-policies"
+  data-analytics-component="rules-and-policies" data-analytics-element="page">
+  <div style="--nav-height: var(--navbar-tall)">
+
+
+
+
+
+
+
+    <div id="twBearerToken"
+      data-value="AAAAAAAAAAAAAAAAAAAAACHguwAAAAAAaSlT0G31NDEyg%2BSnBN5JuyKjMCU%3Dlhg0gv0nE7KKyiJNEAojQbn8Y3wJm1xidDK7VnKGBP4ByJwHPb"
+      style="display:none"></div>
+
+    <div id="twAuthenticationFlag" data-value="guest" style="display:none"></div>
+    <div id="twGeoLocationRegion" data-value="other" style="display:none"></div>
+    <div class="u01b__page-padding"></div>
+
+    <div class="u01b js-twtr-nav u01b--white u01b--text-dark
+      twtr-color-bg--white-neutral is-fixed">
+      <div class="twtr-container--wide">
+        <div class="twtr-grid">
+          <div class="twtr-col-12">
+            <div class="u01b__nav-content">
+              <a class="u01b__skip-nav-content" href="#twtr-main">Skip to main
+                content</a>
+              <div class="u01b__nav-home">
+                <div class="u01b__nav-controls">
+                  <a class="u01b__logo twtr-scribe-clicks" href="/ja.html"
+                    data-twtr-scribe-section="u01b-navigation"
+                    data-twtr-scribe-element="7EPC"
+                    data-twtr-scribe-component="twitter-logo-icon"
+                    aria-label="ヘルプセンター home">
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24"
+                      height="24" viewBox="0 0 24 24" aria-hidden="true"
+                      focusable="false" role="none" class="u01b__icon-home">
+                      <path opacity="0" d="M0 0h24v24H0z"></path>
+                      <path d="M23.643
+                        4.937c-.835.37-1.732.62-2.675.733.962-.576 1.7-1.49
+                        2.048-2.578-.9.534-1.897.922-2.958
+                        1.13-.85-.904-2.06-1.47-3.4-1.47-2.572 0-4.658
+                        2.086-4.658 4.66 0 .364.042.718.12
+                        1.06-3.873-.195-7.304-2.05-9.602-4.868-.4.69-.63
+                        1.49-.63 2.342 0 1.616.823 3.043 2.072
+                        3.878-.764-.025-1.482-.234-2.11-.583v.06c0 2.257 1.605
+                        4.14 3.737 4.568-.392.106-.803.162-1.227.162-.3
+                        0-.593-.028-.877-.082.593 1.85 2.313 3.198 4.352
+                        3.234-1.595 1.25-3.604 1.995-5.786 1.995-.376
+                        0-.747-.022-1.112-.065 2.062 1.323 4.51 2.093 7.14 2.093
+                        8.57 0 13.255-7.098 13.255-13.254
+                        0-.2-.005-.402-.014-.602.91-.658 1.7-1.477 2.323-2.41z"></path>
+                    </svg>
+                    <span class="u01b__home-link twtr-type--bold-24">
+                      ヘルプセンター
+                    </span>
+                  </a>
+                </div>
+
+
+              </div>
+
+
+              <div class="u01b__dynamic-nav"
+                data-links-json="[{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;Twitter活用法&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;Twitter活用法&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/using-twitter&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;アカウントの管理&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;アカウントの管理&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/managing-your-account&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;安全とセキュリティ&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;安全とセキュリティ&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/safety-and-security&quot;},{&quot;isActive&quot;:true,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;ルールとポリシー&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;ルールとポリシー&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/rules-and-policies&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;Twitterをさらに活用する方法&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;Twitterをさらに活用する方法&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/more-twitter&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;Twitterをより安心して楽しむには&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;Twitterをより安心して楽しむには&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/a-safer-twitter&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;プライバシー設定&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;プライバシー設定&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/how-you-can-control-your-privacy&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;アクセシビリティ&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;アクセシビリティ&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/accessibility&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;新しい利用者からのよくある質問&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;新しい利用者からのよくある質問&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/new-user-faq&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;用語集&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;用語集&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/glossary&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;スタートガイド&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;スタートガイド&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/twitter-guide&quot;},{&quot;isActive&quot;:false,&quot;hasActiveChild&quot;:false,&quot;children&quot;:[],&quot;overviewTitle&quot;:&quot;Twitterにおける誤報への対処方法&quot;,&quot;linkDisabled&quot;:false,&quot;title&quot;:&quot;Twitterにおける誤報への対処方法&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources/addressing-misleading-info&quot;}],&quot;overviewTitle&quot;:&quot;参考資料&quot;,&quot;linkDisabled&quot;:true,&quot;title&quot;:&quot;参考資料&quot;,&quot;path&quot;:&quot;https://help.twitter.com/ja/resources&quot;}]"
+                data-icon-chevron-right="<svg
+                xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                width=&quot;24&quot; height=&quot;24&quot; viewbox=&quot;0 0 24
+                24&quot; aria-hidden=&quot;true&quot;
+                focusable=&quot;false&quot; role=&quot;none&quot;
+                class=&quot;twtr-icon&quot;>
+                <path opacity=&quot;0&quot; d=&quot;M0 0h24v24H0z&quot; />
+                  <path d=&quot;M17.207 11.293l-7.5-7.5c-.39-.39-1.023-.39-1.414
+                    0s-.39 1.023 0 1.414L15.086 12l-6.793 6.793c-.39.39-.39
+                    1.023 0
+                    1.414.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                    0-1.414z&quot; />
+                  </svg>" data-icon-arrow-left="<svg width=&quot;28px&quot;
+                    height=&quot;28px&quot; viewbox=&quot;0 0 28 28&quot;
+                    version=&quot;1.1&quot;
+                    xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                    xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;
+                    aria-hidden=&quot;true&quot; focusable=&quot;false&quot;
+                    role=&quot;none&quot; class=&quot;twtr-icon
+                    u01b__icon-arrow-left&quot;>
+                    <g stroke=&quot;none&quot; stroke-width=&quot;1&quot;
+                      fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;
+                      stroke-linecap=&quot;round&quot;>
+                      <g transform=&quot;translate(-1216.000000,
+                        -298.000000)&quot; stroke-width=&quot;2.25&quot;>
+                        <g transform=&quot;translate(1200.000000,
+                          282.000000)&quot;>
+                          <g transform=&quot;translate(17.000000,
+                            17.000000)&quot;>
+                            <path d=&quot;M0.756410256,12.8589744
+                              L25.7179487,12.8589744&quot;></path>
+                            <path d=&quot;M13.2371795,25.3397436
+                              L25.7179487,12.8589744&quot;></path>
+                            <path d=&quot;M13.2371795,12.4807692
+                              L25.3397436,0.378205128&quot;
+                              transform=&quot;translate(19.288462, 6.429487)
+                              rotate(-90.000000) translate(-19.288462,
+                              -6.429487) &quot;></path>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </svg>" data-icon-chevron-down="<svg
+                    xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                    width=&quot;24&quot; height=&quot;24&quot; viewbox=&quot;0 0
+                    24 24&quot; aria-hidden=&quot;true&quot;
+                    focusable=&quot;false&quot; role=&quot;none&quot;
+                    class=&quot;twtr-icon&quot;>
+                    <path opacity=&quot;0&quot; d=&quot;M0 0h24v24H0z&quot; />
+                      <path d=&quot;M20.207 7.043c-.39-.39-1.023-.39-1.414 0L12
+                        13.836 5.207 7.043c-.39-.39-1.023-.39-1.414 0s-.39 1.023
+                        0 1.414l7.5
+                        7.5c.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                        0-1.414z&quot; />
+                      </svg>" data-icon-close="<svg version=&quot;1.1&quot;
+                        xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                        xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;
+                        x=&quot;0px&quot; y=&quot;0px&quot; viewbox=&quot;0 0 24
+                        24&quot; style=&quot;enable-background:new 0 0 24
+                        24;&quot; xml:space=&quot;preserve&quot;
+                        aria-hidden=&quot;true&quot; focusable=&quot;false&quot;
+                        role=&quot;none&quot; class=&quot;twtr-icon--md&quot;>
+                        <g>
+                          <g>
+                            <defs>
+                              <rect id=&quot;SVGID_1_&quot; x=&quot;-468&quot;
+                                y=&quot;-1360&quot; width=&quot;1440&quot;
+                                height=&quot;3027&quot; />
+                              </defs>
+                              <clippath id=&quot;SVGID_2_&quot;>
+                                <use xlink:href=&quot;#SVGID_1_&quot;
+                                  style=&quot;overflow:visible;&quot; />
+                                </clippath>
+                              </g>
+                            </g>
+                            <rect x=&quot;-468&quot; y=&quot;-1360&quot;
+                              class=&quot;st0&quot; width=&quot;1440&quot;
+                              height=&quot;3027&quot;
+                              style=&quot;fill:rgb(0,0,0,0);stroke-width:3;stroke:rgb(0,0,0)&quot;
+                              />
+                              <path
+                                d=&quot;M13.4,12l5.8-5.8c0.4-0.4,0.4-1,0-1.4c-0.4-0.4-1-0.4-1.4,0L12,10.6L6.2,4.8c-0.4-0.4-1-0.4-1.4,0c-0.4,0.4-0.4,1,0,1.4
+                                l5.8,5.8l-5.8,5.8c-0.4,0.4-0.4,1,0,1.4c0.2,0.2,0.4,0.3,0.7,0.3s0.5-0.1,0.7-0.3l5.8-5.8l5.8,5.8c0.2,0.2,0.5,0.3,0.7,0.3
+                                s0.5-0.1,0.7-0.3c0.4-0.4,0.4-1,0-1.4L13.4,12z&quot;
+                                />
+                              </svg>" data-icon-search="<svg
+                                xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                width=&quot;24&quot; height=&quot;24&quot;
+                                viewbox=&quot;0 0 24 24&quot;
+                                aria-hidden=&quot;true&quot;
+                                focusable=&quot;false&quot;
+                                role=&quot;none&quot;
+                                class=&quot;twtr-icon&quot;>
+                                <path opacity=&quot;0&quot; d=&quot;M0
+                                  0h24v24H0z&quot; />
+                                  <path d=&quot;M22.06 19.94l-3.73-3.73C19.38
+                                    14.737 20 12.942 20 11c0-4.97-4.03-9-9-9s-9
+                                    4.03-9 9 4.03 9 9 9c1.943 0 3.738-.622
+                                    5.21-1.67l3.73 3.73c.292.294.676.44
+                                    1.06.44s.768-.146
+                                    1.06-.44c.586-.585.586-1.535 0-2.12zM11
+                                    17c-3.308 0-6-2.692-6-6s2.692-6 6-6 6 2.692
+                                    6 6-2.692 6-6 6z&quot; />
+                                  </svg>" data-icon-search-submit="<svg
+                                    width=&quot;28px&quot;
+                                    height=&quot;28px&quot; viewbox=&quot;0 0 28
+                                    28&quot; version=&quot;1.1&quot;
+                                    xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                    xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;
+                                    aria-hidden=&quot;true&quot;
+                                    focusable=&quot;false&quot;
+                                    role=&quot;none&quot;
+                                    class=&quot;twtr-icon&quot;>
+                                    <g stroke=&quot;none&quot;
+                                      stroke-width=&quot;1&quot;
+                                      fill=&quot;none&quot;
+                                      fill-rule=&quot;evenodd&quot;
+                                      stroke-linecap=&quot;round&quot;>
+                                      <g transform=&quot;translate(-1216.000000,
+                                        -298.000000)&quot;
+                                        stroke-width=&quot;2.25&quot;>
+                                        <g
+                                          transform=&quot;translate(1200.000000,
+                                          282.000000)&quot;>
+                                          <g
+                                            transform=&quot;translate(17.000000,
+                                            17.000000)&quot;>
+                                            <path
+                                              d=&quot;M0.756410256,12.8589744
+                                              L25.7179487,12.8589744&quot;></path>
+                                            <path d=&quot;M13.2371795,25.3397436
+                                              L25.7179487,12.8589744&quot;></path>
+                                            <path d=&quot;M13.2371795,12.4807692
+                                              L25.3397436,0.378205128&quot;
+                                              transform=&quot;translate(19.288462,
+                                              6.429487) rotate(-90.000000)
+                                              translate(-19.288462, -6.429487)
+                                              &quot;></path>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </svg>" data-bg-color="white-neutral"
+                                  data-root-page-title="ヘルプセンター"
+                                  data-search-placeholder="検索"
+                                  data-search-enabled="true"
+                                  data-search-page="https://help.twitter.com/ja/search-results"
+                                  data-search-query-key="q"
+                                  data-search-query-type="?"
+                                  data-scribe-element="7EPC"
+                                  data-scribe-section="u01b-navigation"
+                                  data-cta-enabled="true"
+                                  data-profile-enabled="true"
+                                  data-cta-text="お問い合わせ"
+                                  data-cta-link="https://help.twitter.com/forms.html"
+                                  data-cta-link-new-tab="false">
+
+                                </div>
+
+                                <div class="u01b__static-nav">
+
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+
+
+
+
+                      <main class="twtr-color-bg--white-neutral"id="twtr-main">
+                        <div class="ct01-columns">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          <div class="ct01
+
+                            twtr-padding__section--top
+                            twtr-padding__section--bottom">
+
+                            <div class="ct01__content twtr-container">
+                              <div class="ct01__item twtr-grid">
+
+                                <div class="ct01__column
+                                  twtr-col-md-1
+                                  none">
+                                  <div class="ct01__wrapper">
+
+
+
+
+
+                                  </div>
+                                </div>
+
+                                <div class="ct01__column
+                                  twtr-col-md-10
+                                  none">
+                                  <div class="ct01__wrapper">
+
+
+
+
+
+
+
+                                    <div class="h03__content-dropdown
+                                      twtr-component-space--md
+                                      twtr-component--last twtr-component
+                                      twtr-component--first">
+                                      <div class="h03">
+                                        <div class="h03__container">
+                                          <div class="h03__headline
+                                            twtr-type--bold-800r">📝 ルールとポリシー</div>
+                                          <div class="h03__description"><ul>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><a
+                                                    href="#general">全般</a><b></b>Twitterルールとポリシーについて<br>
+                                                  <br>
+                                                </span></li>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><a
+                                                    href="#platform-integrity-and-authenticity"><b>プラットフォームの完全性と信頼性</b></a>&nbsp;スパム、プラットフォームの操作、APIの悪用、情報操作の調査と抑制により、公開の会話の健全性を促進するためのポリシー<br>
+                                                  <br>
+                                                </span></li>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><b><a
+                                                      href="#safety-and-cybercrime">安全とサイバー犯罪</a>&nbsp;</b>Twitterプラットフォームでの攻撃的な行為、嫌がらせ、暴力、および犯罪行為に対する理念を推進するためのポリシー<br>
+                                                  <br>
+                                                </span></li>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><a
+                                                    href="#intellectual-property"><b>知的財産権</b></a><b>&nbsp;</b>Twitterプラットフォーム上の個人および組織の知的財産権を保護するためのポリシー<br>
+                                                  <br>
+                                                </span></li>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><a
+                                                    href="#platform-use-guidelines"><b>プラットフォームの使用に関するガイドライン</b></a>&nbsp;Twitterプラットフォームの使用に関するポリシーおよび情報<br>
+                                                  <br>
+                                                </span></li>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><b><a
+                                                      href="#account-settings">アカウント設定</a>&nbsp;</b>アカウントの設定についてユーザーを支援する記事およびポリシー<br>
+                                                  <br>
+                                                </span></li>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><b><a
+                                                      href="#law-enforcement-guildelines">執行機関/捜査機関に関するガイドライン</a>&nbsp;</b>執行機関/捜査機関に関する情報<br>
+                                                  <br>
+                                                </span></li>
+                                              <li><span
+                                                  class="twtr-type--roman-300r"><b><a
+                                                      href="#research-and-experiments">調査とテスト</a>&nbsp;</b>Twitterがプラットフォームで実施する調査および実験に関する情報</span></li>
+                                            </ul>
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;一般&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitterルール&quot;,&quot;description&quot;:&quot;自由に安心して会話できるようにするため、Twitterで公開できるコンテンツの種類と利用上の行為に対して設けられている制限について理解します。&quot;,&quot;created&quot;:1650470753451,&quot;modified&quot;:1650386218742,&quot;published&quot;:1624500660000,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/general&quot;,&quot;title&quot;:&quot;一般&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-rules.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;一般&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;亡くなられた人について&quot;,&quot;description&quot;:&quot;亡くなられた人についての画像/動画の共有が有害となる場合、報告方法、Twitterが講じる場合がある措置については、こちらをご覧ください。&quot;,&quot;created&quot;:1635443298464,&quot;modified&quot;:1634308991938,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/general&quot;,&quot;title&quot;:&quot;一般&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/contact-twitter-about-media-on-a-deceased-family-members-account.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;一般&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;ユーザー名の不正占拠に関するポリシー&quot;,&quot;description&quot;:&quot;ユーザー名の不正占拠とユーザー名の販売を禁じるTwitterのポリシーについて説明します。&quot;,&quot;created&quot;:1635360214611,&quot;modified&quot;:1634308930662,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/general&quot;,&quot;title&quot;:&quot;一般&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-username-squatting.html&quot;}],&quot;count&quot;:3,&quot;totalResults&quot;:3}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/general">
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;コピーパスタおよび重複するコンテンツに関するポリシー&quot;,&quot;description&quot;:&quot;概要
+                                            2022年5月
+                                            信頼できる確かな情報を利用者が見つけることができるように、また、Twitterにおいて公共の場で健全な会話が行われるように、Twitterでは同一内容のツイート（いわゆる「コピーパスタ」）の表示を制限しています。&quot;,&quot;created&quot;:1652197121445,&quot;modified&quot;:1651237012631,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/copypasta-duplicate-content.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;プラットフォームの操作とスパムに関するポリシー&quot;,&quot;description&quot;:&quot;スパムとプラットフォームの操作で禁止されているさまざまな行為とその報告方法について説明します。&quot;,&quot;created&quot;:1652196488270,&quot;modified&quot;:1650641005995,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/platform-manipulation.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;誤解を招くアイデンティティや虚偽のアイデンティティ&quot;,&quot;description&quot;:&quot;Twitterでは、人々の生の声が見つかる場を利用者に提供したいと考えています。そのためには、Twitterアカウントのプロフィールに記載されている個人または組織に関する情報は、そのアカウントの所有者の正しい識別情報として、信頼のおけるものでなくてはなりません。Twitterアカウントのプロフィールに、その所有者の本名や画像を掲載することは義務付けられてはいませんが、他者を欺くことを目的に、アカウントを利用して、他者や実際に存在しない人物になりすますことは禁止されています。虚偽のアイデンティティを使用するアカウントは、混乱を招いたり、Twitterでの会話の信ぴょう性を損なったりする可能性があります。こうした理由により、利用者を欺くことを目的に、他の利用者、グループ、組織のアイデンティティを悪用したり、架空のアイデンティティを捏造したりすることは禁止されています。&quot;,&quot;created&quot;:1650300348466,&quot;modified&quot;:1649771924325,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;合成または操作されたメディアに関するポリシー&quot;,&quot;description&quot;:&quot;合成または操作された有害なメディアを、誤解を招くように共有することに関する、Twitterの強制的対応について説明します。&quot;,&quot;created&quot;:1648734670831,&quot;modified&quot;:1648574388211,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/manipulated-media.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;COVID-19について誤解を招く情報に関するポリシー&quot;,&quot;description&quot;:&quot;明らかに誤ったコンテンツ、誤解を招くコンテンツ、重大な損害（ウイルスへの暴露を増やす、公衆衛生システムに悪影響もたらす、など）をもたらす可能性のあるコンテンツはTwitter上で共有することが禁止されており、削除の対象となります。&quot;,&quot;created&quot;:1640038890813,&quot;modified&quot;:1639413344987,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/medical-misinformation-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;市民活動の阻害に関するポリシー&quot;,&quot;description&quot;:&quot;選挙やその他の市民活動の操作や妨害を目的としてTwitterのサービスを利用することを禁じます。&quot;,&quot;created&quot;:1637263780575,&quot;modified&quot;:1634057493953,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/election-integrity-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;パロディアカウント、ニュースフィードアカウント、コメンタリーアカウント、ファンアカウントのポリシー&quot;,&quot;description&quot;:&quot;Twitterはパロディ、コメンタリー、ファンアカウントの要件と、それらに関する報告に対するTwitterの対応について説明します。&quot;,&quot;created&quot;:1635518808258,&quot;modified&quot;:1634309168856,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/parody-account-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;共謀による有害行為&quot;,&quot;description&quot;:&quot;Twitterでは、すべてのユーザーが自由に、安心して公共の会話に参加できるようにTwitterルールが設けられていますが、時にはTwitter内外での損害につながる共謀行為に加担するグループ、運動、キャンペーンが確認されることがあります。&quot;,&quot;created&quot;:1635454390168,&quot;modified&quot;:1634309047753,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/coordinated-harmful-activity.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;金融詐欺に関するポリシー&quot;,&quot;description&quot;:&quot;Twitterでの金融詐欺と報告方法、金融詐欺とスパムの報告の取り扱いについて説明します。&quot;,&quot;created&quot;:1635450770264,&quot;modified&quot;:1634308930667,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/financial-scam.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;ハッキングされた素材の配布に関するポリシー&quot;,&quot;description&quot;:&quot;ハッキングされた素材およびその配布の定義、報告方法、この種の報告の取り扱いについて説明します。&quot;,&quot;created&quot;:1635448994638,&quot;modified&quot;:1634309047788,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/hacked-materials.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの完全性と信頼性&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;回避行為の禁止に関するポリシー&quot;,&quot;description&quot;:&quot;回避や回避を目的とした行為について、その定義、禁止規定、Twitterの措置について説明します。&quot;,&quot;created&quot;:1635357926373,&quot;modified&quot;:1634308990739,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity&quot;,&quot;title&quot;:&quot;プラットフォームの完全性と信頼性&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/ban-evasion.html&quot;}],&quot;count&quot;:11,&quot;totalResults&quot;:11}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/platform-integrity-and-authenticity">
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;暴力行為の加害者に関するポリシー&quot;,&quot;description&quot;:&quot;暴力的な組織またはそのような組織のメンバーが起こしたと主張する暴力行為は、Twitterの暴力的な組織に関するポリシーの対象となります。Twitterはテロリスト組織やその他の暴力的な組織のメンバーであること、グループ、組織、またはイデオロギーに正式に所属していることを確認せずとも、Twitterポリシーに基づき、コンテンツへの対応を実施します。&quot;,&quot;created&quot;:1650470762872,&quot;modified&quot;:1650386218763,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/perpetrators-of-violent-attacks.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;個人情報に関するポリシー&quot;,&quot;description&quot;:&quot;晒し行為とも呼ばれる個人情報の無断投稿に対するTwitterの対応とその報告方法について説明します。&quot;,&quot;created&quot;:1649256218554,&quot;modified&quot;:1649254532076,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/personal-information.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;センシティブなメディアに関するポリシー&quot;,&quot;description&quot;:&quot;センシティブなメディアについて、それに分類されるもの、表示できる場所とその方法、メディアの表示設定を変更する方法などについて説明します。&quot;,&quot;created&quot;:1645695944302,&quot;modified&quot;:1645695870035,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/media-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;暴言や脅迫、差別的言動に対するTwitterのポリシー&quot;,&quot;description&quot;:&quot;ヘイト行為や嫌がらせ、他人をおびえさせる言動の定義、報告方法、Twitterが講じる場合がある措置については、こちらをご覧ください。&quot;,&quot;created&quot;:1639427735283,&quot;modified&quot;:1637885548427,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/hateful-conduct-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;攻撃的な行為&quot;,&quot;description&quot;:&quot;攻撃的な行為、Twitterの基本原則と詳しい文脈、Twitterが講じる場合がある措置については、こちらをご覧ください。&quot;,&quot;created&quot;:1636404780429,&quot;modified&quot;:1636404776600,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/abusive-behavior.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;暴力的な組織に関するポリシー&quot;,&quot;description&quot;:&quot;暴力的な組織とその宣伝の定義、報告方法、Twitterが講じる場合がある強制的対応について説明します。&quot;,&quot;created&quot;:1635518063435,&quot;modified&quot;:1634308990762,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/violent-groups.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;自殺や自傷行為に関するポリシー&quot;,&quot;description&quot;:&quot;自殺や自傷行為を助長する発言について、その定義、禁止する規定、報告方法、Twitterの措置については、こちらをご覧ください。&quot;,&quot;created&quot;:1635516860508,&quot;modified&quot;:1634308930724,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/glorifying-self-harm.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;暴力の賛美に関するポリシー&quot;,&quot;description&quot;:&quot;暴力の賛美について、その定義、禁止規定、報告方法、Twitterの強制措置について説明します。&quot;,&quot;created&quot;:1635453997793,&quot;modified&quot;:1634309047346,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/glorification-of-violence.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;攻撃的プロフィール情報&quot;,&quot;description&quot;:&quot;攻撃的なプロフィールについて、その定義、禁止規定、Twitterの強制措置について説明します。&quot;,&quot;created&quot;:1635450368219,&quot;modified&quot;:1634308991161,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/abusive-profile.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;違法または特定の規制物品/サービス&quot;,&quot;description&quot;:&quot;違法または特定の規制対象商品・サービスの販売を禁止する方法と理由、Twitterが講じる場合がある措置について説明します。&quot;,&quot;created&quot;:1635442957718,&quot;modified&quot;:1634308861927,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/regulated-goods-services.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;合意のない裸体の描写に関するポリシー&quot;,&quot;description&quot;:&quot;合意のない裸体の描写の分類方法、それに関するポリシー違反に関するTwitterへの報告や強制的対応の手続きについて説明します。&quot;,&quot;created&quot;:1635442617040,&quot;modified&quot;:1634308991225,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/intimate-media.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;安全とサイバー犯罪&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;児童の性的搾取に関するポリシー&quot;,&quot;description&quot;:&quot;このポリシーの違反に当たる行為、報告方法、違反を発見した場合に報告以外にできることについて説明します。&quot;,&quot;created&quot;:1635359170907,&quot;modified&quot;:1634308990729,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime&quot;,&quot;title&quot;:&quot;安全とサイバー犯罪&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/sexual-exploitation-policy.html&quot;}],&quot;count&quot;:12,&quot;totalResults&quot;:12}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/safety-and-cybercrime">
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;知的財産権&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;著作権に関するポリシー&quot;,&quot;description&quot;:&quot;著作権侵害の申し立て方法と申し立ての処理方法、コンテンツ削除に異議を申し立てる方法&quot;,&quot;created&quot;:1651089261548,&quot;modified&quot;:1650543094017,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/intellectual-property&quot;,&quot;title&quot;:&quot;知的財産権&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/copyright-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;知的財産権&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;ライブ放送に関する著作権侵害の自動申し立て&quot;,&quot;description&quot;:&quot;Twitterのライブ放送のうち、著作権で保護されたコンテンツに一致するものが、無効となるか、視聴が制限される場合について説明します。&quot;,&quot;created&quot;:1635519515587,&quot;modified&quot;:1634309047339,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/intellectual-property&quot;,&quot;title&quot;:&quot;知的財産権&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/automated-claims-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;知的財産権&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;偽造品に関するポリシー&quot;,&quot;description&quot;:&quot;偽造品の販売について、その定義、禁止規定、報告の取り扱い、Twitterの措置について説明します。&quot;,&quot;created&quot;:1635451986314,&quot;modified&quot;:1634308931060,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/intellectual-property&quot;,&quot;title&quot;:&quot;知的財産権&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/counterfeit-goods-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;知的財産権&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;商標に関するポリシー&quot;,&quot;description&quot;:&quot;商標違反の定義、それを報告できる人、報告方法、報告の取り扱いについて説明します。&quot;,&quot;created&quot;:1635361466125,&quot;modified&quot;:1634308861935,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/intellectual-property&quot;,&quot;title&quot;:&quot;知的財産権&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-trademark-policy.html&quot;}],&quot;count&quot;:4,&quot;totalResults&quot;:4}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/intellectual-property">
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;一般的なガイドラインとポリシー&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Proアカウントに関するポリシー&quot;,&quot;description&quot;:&quot;このページに記載されている資格要件と機能に関するポリシーに基づき、要件に適うユーザーと組織はTwitter上で自由に、安心して公共の会話に参加できます。
+                                            &quot;,&quot;created&quot;:1651089747025,&quot;modified&quot;:1651089739971,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/general-policies&quot;,&quot;title&quot;:&quot;一般的なガイドラインとポリシー&quot;},{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/professional-account-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitter、Twitterのサービス、および関連会社&quot;,&quot;description&quot;:&quot;Twitterのサービスおよびアフィリエイトや、アフィリエイトのプライバシーポリシーについての詳細をご覧ください。&quot;,&quot;created&quot;:1650999003495,&quot;modified&quot;:1650998999255,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-services-and-corporate-affiliates.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitterにおける政府および国家当局関係メディアアカウントラベルについて&quot;,&quot;description&quot;:&quot;Twitterは、背景情報を提供するために、国家当局関係メディアアカウントにラベルを付加します。その理由と方法を説明します。&quot;,&quot;created&quot;:1649247444636,&quot;modified&quot;:1649223365766,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/state-affiliated.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;公共の利益にかなう場合のTwitterでの例外措置について&quot;,&quot;description&quot;:&quot;Twitterが特定の例外を適用する理由とそれが適用される状況、有害なコンテンツが拡散する危険性と公共の利益とのバランスについて説明します。&quot;,&quot;created&quot;:1649090456051,&quot;modified&quot;:1648680958203,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/public-interest.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;TwitterによるCookieとCookieの類似技術の使用&quot;,&quot;description&quot;:&quot;Cookie、ピクセル、ローカルストレージとそれらの使用方法およびプライバシーについての利用者のオプションを説明します。&quot;,&quot;created&quot;:1646166320631,&quot;modified&quot;:1646166316977,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-cookies.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitter上の警告とその意味&quot;,&quot;description&quot;:&quot;Twitterアカウントやツイートに表示されるさまざまな警告と、その意味について説明します。&quot;,&quot;created&quot;:1643885969664,&quot;modified&quot;:1641829715271,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/notices-on-twitter.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;強制的対応の適用レベルと適用範囲&quot;,&quot;description&quot;:&quot;Twitterが措置を適用するレベルや対応、利用者がアカウントの凍結に対して異議を申し立てる方法を説明します。&quot;,&quot;created&quot;:1643885961759,&quot;modified&quot;:1641829715206,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/enforcement-options.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;違反の報告&quot;,&quot;description&quot;:&quot;ツイート、モーメント、Periscopeなどを対象とし、特定の違反タイプごとに、考えられるTwitterの利用規約違反を報告する方法について説明します。&quot;,&quot;created&quot;:1643885936291,&quot;modified&quot;:1642791075919,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-report-violation.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;false&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;コンテンツの収益化に関する基準&quot;,&quot;description&quot;:&quot;収益化機能を通じて収益化するコンテンツは、Twitter上にあるそれまでの収益化されていないコンテンツから大きく逸脱するものであってはなりません。チケット制スペースおよび/またはスーパーフォロー機能のベータ版への参加の承認は、Twitter上でのこれまでのコンテンツおよびパブリックな会話への貢献などに基づいています。
+                                            チケット制スペースおよびスーパーフォローに関する対応についての理念をご確認ください。&quot;,&quot;created&quot;:1638362208003,&quot;modified&quot;:1637885488469,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/content-monetization-standards.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;スーパーフォローに関するポリシー&quot;,&quot;description&quot;:&quot;アカウントが乗っ取られた可能性があることが判明した場合、Twitterアカウントを再度ご利用いただけるようになるまで収益化の機能を一時的に停止します。&quot;,&quot;created&quot;:1638362126392,&quot;modified&quot;:1637886029624,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/super-follows-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;false&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;チケット制スペースに関するポリシー&quot;,&quot;description&quot;:&quot;Twitterでは、利用者および利用組織が自由に、安心して公の場での会話に参加できるようにするため、資格要件、コンテンツと行動に関する要件を含む、チケット制スペースの主催者全員が遵守しなければならない一連のポリシーを定めています。&quot;,&quot;created&quot;:1638361877741,&quot;modified&quot;:1637885548430,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/ticketed-spaces-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;フランスにおける誤った情報の報告&quot;,&quot;description&quot;:&quot;フランスのユーザーがTwitterに報告できる2種類の誤った情報と、それらの報告の取り扱いについて。&quot;,&quot;created&quot;:1635776611080,&quot;modified&quot;:1634308931820,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/france-false-information.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;利用規約とプライバシーポリシーの改定&quot;,&quot;description&quot;:&quot;Twitterサービスの改善に合わせて、プライバシーポリシーが改定されます。改定後のポリシー全文をお読みになることをおすすめします。&quot;,&quot;created&quot;:1635541728405,&quot;modified&quot;:1634308931753,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/update-privacy-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;データ処理についての詳細情報&quot;,&quot;description&quot;:&quot;Twitterが収集するデータの種類、収集元、処理や共有の方法についての詳細情報をご覧ください。&quot;,&quot;created&quot;:1635540577342,&quot;modified&quot;:1634309049512,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/data-processing-legal-bases.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;ポリシーの策定に対するTwitterのアプローチと対応についての理念&quot;,&quot;description&quot;:&quot;Twitterが新規または更新ポリシーを策定するプロセスと、強制的対応を適用する際の考慮する状況について説明します。&quot;,&quot;created&quot;:1635538504141,&quot;modified&quot;:1634309048362,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/enforcement-philosophy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;ツイートの公開範囲が制限される状況の例について&quot;,&quot;description&quot;:&quot;状況によっては、ツイートが一部のアカウントに公開されなくなることがあります。ツイートの公開範囲が制限される状況について説明します。&quot;,&quot;created&quot;:1635538144558,&quot;modified&quot;:1634308931118,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-reach-limited.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;検索のルールと留意点について&quot;,&quot;description&quot;:&quot;検索を利用する際のルール、一部のコンテンツが表示されないことがある理由、自分のコンテンツが検索で表示されない場合の対処法について説明します。&quot;,&quot;created&quot;:1635533273023,&quot;modified&quot;:1634308990753,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-search-policies.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;セキュリティ脆弱性を報告する方法&quot;,&quot;description&quot;:&quot;セキュリティの専門家および研究者がTwitterサービスの脆弱性を報告する方法について説明します。&quot;,&quot;created&quot;:1635532991664,&quot;modified&quot;:1634308992003,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/reporting-security-vulnerabilities.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitterリミットについて&quot;,&quot;description&quot;:&quot;アカウントあたりのAPI利用回数、ツイート数、メッセージ数、フォロー数などのリミットと、リミットが使用される理由について説明します。&quot;,&quot;created&quot;:1635532706352,&quot;modified&quot;:1634308992361,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-limits.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitterサービス利用者の権利の保護と尊重&quot;,&quot;description&quot;:&quot;Twitterのコアバリューの1つ、サービス利用者の発言内容の保護と尊重について説明します。&quot;,&quot;created&quot;:1635532420018,&quot;modified&quot;:1634308931369,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/defending-and-respecting-our-users-voice.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;アカウントの行為のルールと留意点について&quot;,&quot;description&quot;:&quot;Twitter利用の手引きとなる重要なガイドラインとヒントを示します。Twitterルールを一読することもお勧めします。&quot;,&quot;created&quot;:1635532116085,&quot;modified&quot;:1634309047793,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-rules-and-best-practices.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;フェアユースポリシー&quot;,&quot;description&quot;:&quot;著作物のフェアユース（公正使用）とその問題へのTwitterの対応について説明します。&quot;,&quot;created&quot;:1635531739315,&quot;modified&quot;:1634308991938,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/fair-use-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;TwitterのAPIについて&quot;,&quot;description&quot;:&quot;TwitterのAPI、APIで使用および共有される情報、APIの利用においてTwitterが提供している保護について説明します。&quot;,&quot;created&quot;:1635531408807,&quot;modified&quot;:1634308992023,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-api.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Vineカメラの利用規約とプライバシーポリシー&quot;,&quot;description&quot;:&quot;Twitterの子会社のサービスであるVineカメラの使用についての利用規約とプライバシーポリシーを読んで理解します。&quot;,&quot;created&quot;:1635531080160,&quot;modified&quot;:1634308931961,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/vine-camera-privacy-policy.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitterモーメントのガイドラインと方針&quot;,&quot;description&quot;:&quot;モーメントの作成と選定でTwitterのキュレーションチームが採用している基準とガイドラインについて説明します。&quot;,&quot;created&quot;:1635529255402,&quot;modified&quot;:1634308992401,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-moments-guidelines-and-principles.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;自動化ルール&quot;,&quot;description&quot;:&quot;Twitterでの自動化に関する開発者向けのルールと情報。&quot;,&quot;created&quot;:1635528943744,&quot;modified&quot;:1634637799978,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-automation.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;運営の痕跡がないアカウントに関するポリシー&quot;,&quot;description&quot;:&quot;アカウントアクティビティに関するTwitterの判断基準と、ユーザー名のリクエストがある場合の手段について説明します。&quot;,&quot;created&quot;:1635527976354,&quot;modified&quot;:1634308991660,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/inactive-twitter-accounts.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;特定の国におけるコンテンツの表示制限について&quot;,&quot;description&quot;:&quot;Twitterのツイートやアカウントに「表示制限」と表示される理由とコンテンツの表示制限の詳細について説明します。&quot;,&quot;created&quot;:1635527477847,&quot;modified&quot;:1634308991249,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/tweet-withheld-by-country.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;キュレーションスタイルガイド&quot;,&quot;description&quot;:&quot;モーメントおよびTwitterのキュレーションについての詳細なスタイルガイドです。&quot;,&quot;created&quot;:1635527101212,&quot;modified&quot;:1634308931769,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines&quot;,&quot;title&quot;:&quot;プラットフォームの使用に関するガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/curationstyleguide.html&quot;}],&quot;count&quot;:29,&quot;totalResults&quot;:29}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/platform-use-guidelines">
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;アカウント設定&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;メディアの表示設定&quot;,&quot;description&quot;:&quot;メディアの表示設定を、投稿内容や閲覧したいコンテンツに沿ったものとする方法について説明します。&quot;,&quot;created&quot;:1646768306187,&quot;modified&quot;:1646652355933,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/account-settings&quot;,&quot;title&quot;:&quot;アカウント設定&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/media-settings.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;アカウント設定&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;亡くなられた利用者のアカウントについてのご連絡方法&quot;,&quot;description&quot;:&quot;亡くなられたユーザーや自身での対応が難しいユーザーのアカウント停止に関するご連絡方法についてはこちらをご覧ください。&quot;,&quot;created&quot;:1635787614785,&quot;modified&quot;:1634309168886,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/account-settings&quot;,&quot;title&quot;:&quot;アカウント設定&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/contact-twitter-about-a-deceased-family-members-account.html&quot;}],&quot;count&quot;:2,&quot;totalResults&quot;:2}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/account-settings">
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;執行機関／捜査機関向けガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;苦情処理担当者
+                                            -
+                                            インド&quot;,&quot;description&quot;:&quot;違反が疑われるコンテンツを報告する方法を見つけ、インドのTwitterユーザーの苦情処理担当者の連絡先を確認してください。&quot;,&quot;created&quot;:1646173949249,&quot;modified&quot;:1646068759288,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/law-enforcement-guidelines&quot;,&quot;title&quot;:&quot;執行機関／捜査機関向けガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/report-twitter-abuse-india.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;執行機関／捜査機関向けガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;執行機関／捜査機関向けガイドライン&quot;,&quot;description&quot;:&quot;Twitterアカウントに関する情報の入手を希望している執行機関／捜査機関向けのTwitterの概要とガイダンスです。&quot;,&quot;created&quot;:1644931131184,&quot;modified&quot;:1644931125230,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/law-enforcement-guidelines&quot;,&quot;title&quot;:&quot;執行機関／捜査機関向けガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-law-enforcement-support.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;執行機関／捜査機関向けガイドライン&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;法的請求についてのよくある質問&quot;,&quot;description&quot;:&quot;自分のTwitterアカウントが法的請求の対象となった場合の詳細についてのよくある質問です。&quot;,&quot;created&quot;:1635788363311,&quot;modified&quot;:1634308992421,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/law-enforcement-guidelines&quot;,&quot;title&quot;:&quot;執行機関／捜査機関向けガイドライン&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-legal-faqs.html&quot;}],&quot;count&quot;:3,&quot;totalResults&quot;:3}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/law-enforcement-guidelines">
+                                          </div>
+
+
+                                          <div class="h03__subcategory"
+                                            data-json-str="{&quot;results&quot;:[{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;調査とテスト&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitterの声、Twitter
+                                            InsidersおよびCreator
+                                            Insiders利用規約&quot;,&quot;description&quot;:&quot;ここでは、Twitter
+                                            Insiders（Twitterインサイダーズ）の概要や、Twitterのオンライン市場調査コミュニティへの参加についての利用規約を説明します。&quot;,&quot;created&quot;:1640288336486,&quot;modified&quot;:1639141673763,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/research-and-experiments&quot;,&quot;title&quot;:&quot;調査とテスト&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/insiders-program.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;調査とテスト&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitterのユーザー調査について&quot;,&quot;description&quot;:&quot;Twitterを改善し、ユーザーをよりよく理解するための調査と、希望する場合は調査依頼を受けないようにする方法について説明します。&quot;,&quot;created&quot;:1635791457938,&quot;modified&quot;:1634308991579,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/research-and-experiments&quot;,&quot;title&quot;:&quot;調査とテスト&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-user-research.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;調査とテスト&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitter
+                                            iOSベータ版プログラムとは&quot;,&quot;description&quot;:&quot;Twitter
+                                            iOSベータ版で会話の場に加わる。リツイートしたり、スレッドに参加したり、情報が急速に広まったり、Twitterのタイムラインをスクロールしたりするだけで、世間の話題を把握できます。&quot;,&quot;created&quot;:1635790315498,&quot;modified&quot;:1634309047833,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/research-and-experiments&quot;,&quot;title&quot;:&quot;調査とテスト&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/ios-beta.html&quot;},{&quot;category&quot;:&quot;Rules
+                                            and
+                                            policies&quot;,&quot;subCategory&quot;:&quot;調査とテスト&quot;,&quot;optout&quot;:&quot;true&quot;,&quot;section&quot;:&quot;ルールとポリシー&quot;,&quot;title&quot;:&quot;Twitter
+                                            Experiments
+                                            Programについて&quot;,&quot;description&quot;:&quot;ここでは、Twitter
+                                            Experiments
+                                            Program（Twitterエクスペリメントプログラム）の概要や、参加についての利用規約について説明します。&quot;,&quot;created&quot;:1635790013793,&quot;modified&quot;:1634308862244,&quot;published&quot;:0,&quot;tags&quot;:[{&quot;id&quot;:&quot;help-twitter:help-topics/twitter-rules-and-policies/research-and-experiments&quot;,&quot;title&quot;:&quot;調査とテスト&quot;}],&quot;url&quot;:&quot;/content/help-twitter/ja/rules-and-policies/twitter-beta-experiments-program.html&quot;}],&quot;count&quot;:4,&quot;totalResults&quot;:4}"
+                                            data-trending-svg="<svg
+                                            width=&quot;21&quot;
+                                            height=&quot;13&quot;
+                                            fill=&quot;none&quot;
+                                            xmlns=&quot;http://www.w3.org/2000/svg&quot;
+                                            aria-hidden=&quot;true&quot;
+                                            focusable=&quot;false&quot;><path
+                                              d=&quot;M14.4 0l2.4 2.4-5
+                                              5.1-4.1-4.2L0 11.1l1.5 1.5 6.2-6.3
+                                              4.1 4.2 6.5-6.6 2.3
+                                              2.4V0h-6.2z&quot;
+                                              fill=&quot;#1D9BF0&quot;/></svg>
+                                            " data-enable-anchor-links="true"
+                                            data-tag="help-twitter:help-topics/twitter-rules-and-policies/research-and-experiments">
+                                          </div>
+
+                                        </div>
+                                      </div>
+                                    </div>
+
+
+
+                                  </div>
+                                </div>
+
+                                <div class="ct01__column
+                                  twtr-col-md-1
+                                  none">
+                                  <div class="ct01__wrapper">
+
+
+
+
+
+                                  </div>
+                                </div>
+
+                              </div>
+                            </div>
+
+
+                          </div>
+                        </div>
+
+
+
+
+                        <div class="b17-scroll-top-button">
+
+
+
+
+
+
+
+
+
+                          <div class="b17">
+                            <button class="b17__button" aria-label="Scroll to
+                              top">
+                              <svg xmlns="http://www.w3.org/2000/svg" width="24"
+                                height="24" viewBox="0 0 24 24"
+                                aria-hidden="true" focusable="false" role="none"
+                                class="b17__icon
+                                twtr-color-fill--dark-gray-neutral">
+                                <path opacity="0" d="M0 0h24v24H0z"></path>
+                                <path d="M20.207
+                                  14.543l-7.5-7.5c-.39-.39-1.023-.39-1.414
+                                  0l-7.5 7.5c-.39.39-.39 1.023 0
+                                  1.414.195.195.45.293.707.293s.512-.098.707-.293L12
+                                  9.164l6.793
+                                  6.793c.195.195.45.293.707.293s.512-.098.707-.293c.39-.39.39-1.023
+                                  0-1.414z"></path>
+                              </svg>
+                            </button>
+                          </div>
+
+                        </div>
+
+
+
+
+
+                      </main>
+
+
+
+
+
+
+
+
+                      <div>
+
+
+
+
+                        <footer class="u02 twtr-background--gray-900">
+                          <div class="twtr-container">
+                            <div class="u02__wrapper">
+                              <div class="u02__row u02__network-map">
+                                <div class="twtr-grid u02__twtr-grid">
+                                  <div class="js-accordion u02__column">
+
+                                    <h4 class="u02__column__parent
+                                      twtr-type--bold-14 twtr-color--gray-0
+                                      is-opaque">
+                                      Twitterプラットフォーム
+                                      <span class="u02__icon
+                                        twtr-color-fill--gray-0 twtr-hidden--md
+                                        twtr-hidden--lg twtr-hidden--xl">
+                                        <svg xmlns="http://www.w3.org/2000/svg"
+                                          width="17" height="9.5" viewBox="0 0
+                                          17 9.5" aria-hidden="true"
+                                          focusable="false" role="none"
+                                          class="twtr-icon--sm">
+                                          <path
+                                            d="M16.707.293c-.39-.39-1.023-.39-1.414
+                                            0L8.5 7.086
+                                            1.707.293c-.39-.39-1.023-.39-1.414
+                                            0s-.39 1.023 0 1.414l7.5
+                                            7.5c.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                                            0-1.414z"></path>
+                                        </svg>
+                                      </span>
+                                    </h4>
+
+                                    <ul class="u02__column__list">
+                                      <li class="u02__link-item">
+                                        <a href="https://twitter.com/"
+                                          title="Twitter.com" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-com">
+                                          Twitter.com
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a href="https://status.twitterstat.us/"
+                                          title="障害情報" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          障害情報
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://cards-dev.twitter.com/validator"
+                                          title="カード検証ツール" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          カード検証ツール
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a href="https://publish.twitter.com"
+                                          title="ツイートを埋め込む;" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          ツイートを埋め込む;
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a href="https://privacy.twitter.com/ja"
+                                          title="プライバシーセンター" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          プライバシーセンター
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://transparency.twitter.com/ja.html"
+                                          title="透明性センター" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          透明性センター
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+
+                                  <div class="js-accordion u02__column">
+
+                                    <h4 class="u02__column__parent
+                                      twtr-type--bold-14 twtr-color--gray-0
+                                      is-opaque">
+                                      Twitter, Inc.
+                                      <span class="u02__icon
+                                        twtr-color-fill--gray-0 twtr-hidden--md
+                                        twtr-hidden--lg twtr-hidden--xl">
+                                        <svg xmlns="http://www.w3.org/2000/svg"
+                                          width="17" height="9.5" viewBox="0 0
+                                          17 9.5" aria-hidden="true"
+                                          focusable="false" role="none"
+                                          class="twtr-icon--sm">
+                                          <path
+                                            d="M16.707.293c-.39-.39-1.023-.39-1.414
+                                            0L8.5 7.086
+                                            1.707.293c-.39-.39-1.023-.39-1.414
+                                            0s-.39 1.023 0 1.414l7.5
+                                            7.5c.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                                            0-1.414z"></path>
+                                        </svg>
+                                      </span>
+                                    </h4>
+
+                                    <ul class="u02__column__list">
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://about.twitter.com/en/who-we-are/our-company"
+                                          title="会社について" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          会社について
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://about.twitter.com/en/who-we-are/twitter-for-good"
+                                          title="Twitter for Good"
+                                          target="_blank" class="u02__link
+                                          twtr-type--roman-14 twtr-color--gray-0
+                                          is-opaque twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-for-good">
+                                          Twitter for Good
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a href="https://blog.twitter.com/"
+                                          title="Twitterニュース" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-">
+                                          Twitterニュース
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://about.twitter.com/en/who-we-are/brand-toolkit"
+                                          title="ブランドツールキット" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          ブランドツールキット
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a href="https://careers.twitter.com/"
+                                          title="採用情報" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          採用情報
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://investor.twitterinc.com/"
+                                          title="投資家の皆さま" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          投資家の皆さま
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+
+                                  <div class="js-accordion u02__column">
+
+                                    <h4 class="u02__column__parent
+                                      twtr-type--bold-14 twtr-color--gray-0
+                                      is-opaque">
+                                      ヘルプ
+                                      <span class="u02__icon
+                                        twtr-color-fill--gray-0 twtr-hidden--md
+                                        twtr-hidden--lg twtr-hidden--xl">
+                                        <svg xmlns="http://www.w3.org/2000/svg"
+                                          width="17" height="9.5" viewBox="0 0
+                                          17 9.5" aria-hidden="true"
+                                          focusable="false" role="none"
+                                          class="twtr-icon--sm">
+                                          <path
+                                            d="M16.707.293c-.39-.39-1.023-.39-1.414
+                                            0L8.5 7.086
+                                            1.707.293c-.39-.39-1.023-.39-1.414
+                                            0s-.39 1.023 0 1.414l7.5
+                                            7.5c.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                                            0-1.414z"></path>
+                                        </svg>
+                                      </span>
+                                    </h4>
+
+                                    <ul class="u02__column__list">
+                                      <li class="u02__link-item">
+                                        <a href="https://help.twitter.com/ja"
+                                          title="ヘルプセンター" class="u02__link
+                                          twtr-type--roman-14 twtr-color--gray-0
+                                          is-opaque twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          ヘルプセンター
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://help.twitter.com/ja/using-twitter"
+                                          title="Twitter活用法" class="u02__link
+                                          twtr-type--roman-14 twtr-color--gray-0
+                                          is-opaque twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-">
+                                          Twitter活用法
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a href="https://media.twitter.com/"
+                                          title="Twitterメディア" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-">
+                                          Twitterメディア
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://business.twitter.com/ja/help.html"
+                                          title="広告ヘルプセンター" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          広告ヘルプセンター
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://help.twitter.com/ja/managing-your-account"
+                                          title="アカウントの管理" class="u02__link
+                                          twtr-type--roman-14 twtr-color--gray-0
+                                          is-opaque twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          アカウントの管理
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://preferencecenter.twitter.com/"
+                                          title="メール設定" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          メール設定
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://help.twitter.com/ja/rules-and-policies"
+                                          title="ルールとポリシー" class="u02__link
+                                          twtr-type--roman-14 twtr-color--gray-0
+                                          is-opaque twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          ルールとポリシー
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://help.twitter.com/ja/contact-us"
+                                          title="お問い合わせ" class="u02__link
+                                          twtr-type--roman-14 twtr-color--gray-0
+                                          is-opaque twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          お問い合わせ
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+
+                                  <div class="js-accordion u02__column">
+
+                                    <h4 class="u02__column__parent
+                                      twtr-type--bold-14 twtr-color--gray-0
+                                      is-opaque">
+                                      開発者向け参考資料
+                                      <span class="u02__icon
+                                        twtr-color-fill--gray-0 twtr-hidden--md
+                                        twtr-hidden--lg twtr-hidden--xl">
+                                        <svg xmlns="http://www.w3.org/2000/svg"
+                                          width="17" height="9.5" viewBox="0 0
+                                          17 9.5" aria-hidden="true"
+                                          focusable="false" role="none"
+                                          class="twtr-icon--sm">
+                                          <path
+                                            d="M16.707.293c-.39-.39-1.023-.39-1.414
+                                            0L8.5 7.086
+                                            1.707.293c-.39-.39-1.023-.39-1.414
+                                            0s-.39 1.023 0 1.414l7.5
+                                            7.5c.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                                            0-1.414z"></path>
+                                        </svg>
+                                      </span>
+                                    </h4>
+
+                                    <ul class="u02__column__list">
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://developer.twitter.com/en"
+                                          title="開発者ホーム" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          開発者ホーム
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://developer.twitter.com/en/docs"
+                                          title="ドキュメンテーション" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          ドキュメンテーション
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a href="https://twittercommunity.com/"
+                                          title="フォーラム" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          フォーラム
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://developer.twitter.com/en/community"
+                                          title="コミュニティ" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          コミュニティ
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://blog.twitter.com/developer/"
+                                          title="開発者ブログ" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          開発者ブログ
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://blog.twitter.com/engineering/en_us.html"
+                                          title="エンジニアリングブログ" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          エンジニアリングブログ
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://developer.twitter.com/ja/more/developer-terms"
+                                          title="開発者利用規約" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          開発者利用規約
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+
+                                  <div class="js-accordion u02__column">
+
+                                    <h4 class="u02__column__parent
+                                      twtr-type--bold-14 twtr-color--gray-0
+                                      is-opaque">
+                                      企業向け参考資料
+                                      <span class="u02__icon
+                                        twtr-color-fill--gray-0 twtr-hidden--md
+                                        twtr-hidden--lg twtr-hidden--xl">
+                                        <svg xmlns="http://www.w3.org/2000/svg"
+                                          width="17" height="9.5" viewBox="0 0
+                                          17 9.5" aria-hidden="true"
+                                          focusable="false" role="none"
+                                          class="twtr-icon--sm">
+                                          <path
+                                            d="M16.707.293c-.39-.39-1.023-.39-1.414
+                                            0L8.5 7.086
+                                            1.707.293c-.39-.39-1.023-.39-1.414
+                                            0s-.39 1.023 0 1.414l7.5
+                                            7.5c.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                                            0-1.414z"></path>
+                                        </svg>
+                                      </span>
+                                    </h4>
+
+                                    <ul class="u02__column__list">
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://business.twitter.com/ja/advertising.html"
+                                          title="広告" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          広告
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://business.twitter.com/ja"
+                                          title="Twitterのビジネス活用" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-">
+                                          Twitterのビジネス活用
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://business.twitter.com/ja/resources.html"
+                                          title="参考資料とガイド" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          参考資料とガイド
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://marketing.twitter.com/ja"
+                                          title="Twitterマーケティング" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-">
+                                          Twitterマーケティング
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://marketing.twitter.com/ja/solutions/agency-certification-program"
+                                          title="Twitter広告認定代理店" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-">
+                                          Twitter広告認定代理店
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://marketing.twitter.com/ja/success-stories"
+                                          title="ブランド活用事例" target="_blank"
+                                          class="u02__link twtr-type--roman-14
+                                          twtr-color--gray-0 is-opaque
+                                          twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="-">
+                                          ブランド活用事例
+                                        </a>
+                                      </li>
+
+                                      <li class="u02__link-item">
+                                        <a
+                                          href="https://www.twitterflightschool.com/student/catalog?locale=ja"
+                                          title="Twitter Flight School"
+                                          target="_blank" class="u02__link
+                                          twtr-type--roman-14 twtr-color--gray-0
+                                          is-opaque twtr-scribe-clicks"
+                                          data-twtr-scribe-section="u02-footer"
+                                          data-twtr-scribe-element="G8QX"
+                                          data-twtr-scribe-component="twitter-flight-school">
+                                          Twitter Flight School
+                                        </a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                </div>
+                              </div>
+
+                              <div class="u02__row u02__legal">
+                                <div class="twtr-grid u02__twtr-grid">
+                                  <div class="u02__column u02__column--bottom">
+                                    <span class="u02__column-footnote
+                                      twtr-type--roman-14 twtr-color--gray-0
+                                      is-opaque">
+                                      © 2022 Twitter, Inc.
+                                    </span>
+                                  </div>
+
+                                  <div class="u02__column u02__column--bottom">
+                                    <a
+                                      href="https://help.twitter.com/ja/rules-and-policies/twitter-cookies"
+                                      title="Cookie" class="u02__column-footnote
+                                      twtr-type--roman-14 twtr-color--gray-0
+                                      is-opaque has-hover twtr-scribe-clicks"
+                                      data-twtr-scribe-section="u02-footer"
+                                      data-twtr-scribe-element="G8QX"
+                                      data-twtr-scribe-component="cookie">
+                                      Cookie
+                                    </a>
+                                  </div>
+
+                                  <div class="u02__column u02__column--bottom">
+                                    <a href="https://twitter.com/ja/privacy"
+                                      title="プライバシー" target="_blank"
+                                      class="u02__column-footnote
+                                      twtr-type--roman-14 twtr-color--gray-0
+                                      is-opaque has-hover twtr-scribe-clicks"
+                                      data-twtr-scribe-section="u02-footer"
+                                      data-twtr-scribe-element="G8QX"
+                                      data-twtr-scribe-component="-">
+                                      プライバシー
+                                    </a>
+                                  </div>
+
+                                  <div class="u02__column u02__column--bottom">
+                                    <a href="https://twitter.com/ja/tos"
+                                      title="利用規約" target="_blank"
+                                      class="u02__column-footnote
+                                      twtr-type--roman-14 twtr-color--gray-0
+                                      is-opaque has-hover twtr-scribe-clicks"
+                                      data-twtr-scribe-section="u02-footer"
+                                      data-twtr-scribe-element="G8QX"
+                                      data-twtr-scribe-component="-">
+                                      利用規約
+                                    </a>
+                                  </div>
+
+                                  <div class="u02__column u02__column--bottom">
+                                    <div class="u03">
+                                      <button class="u03__current-region js-open
+                                        twtr-type--roman-14 twtr-color--gray-0
+                                        is-opaque has-hover" aria-label="Select
+                                        Region" type="button">
+                                        日本語
+                                        <svg xmlns="http://www.w3.org/2000/svg"
+                                          width="17" height="9.5" viewBox="0 0
+                                          17 9.5" aria-hidden="true"
+                                          focusable="false" role="none"
+                                          class="twtr-icon--sm
+                                          twtr-color-fill--white-neutral
+                                          has-hover">
+                                          <path
+                                            d="M16.707.293c-.39-.39-1.023-.39-1.414
+                                            0L8.5 7.086
+                                            1.707.293c-.39-.39-1.023-.39-1.414
+                                            0s-.39 1.023 0 1.414l7.5
+                                            7.5c.195.195.45.293.707.293s.512-.098.707-.293l7.5-7.5c.39-.39.39-1.023
+                                            0-1.414z"></path>
+                                        </svg>
+                                      </button>
+
+                                      <div class="u03__modal
+                                        twtr-color-bg--blue-extra-dark"
+                                        role="dialog" aria-label="region"
+                                        aria-modal="true">
+                                        <a href="/ja.html" class="u03__brand">
+                                          <svg
+                                            xmlns="http://www.w3.org/2000/svg"
+                                            width="24" height="24" viewBox="0 0
+                                            24 24" aria-hidden="true"
+                                            focusable="false" role="none"
+                                            class="u03__brand-icon
+                                            twtr-icon--base
+                                            twtr-color-fill--white-neutral">
+                                            <path opacity="0" d="M0 0h24v24H0z"></path>
+                                            <path d="M23.643
+                                              4.937c-.835.37-1.732.62-2.675.733.962-.576
+                                              1.7-1.49
+                                              2.048-2.578-.9.534-1.897.922-2.958
+                                              1.13-.85-.904-2.06-1.47-3.4-1.47-2.572
+                                              0-4.658 2.086-4.658 4.66 0
+                                              .364.042.718.12
+                                              1.06-3.873-.195-7.304-2.05-9.602-4.868-.4.69-.63
+                                              1.49-.63 2.342 0 1.616.823 3.043
+                                              2.072
+                                              3.878-.764-.025-1.482-.234-2.11-.583v.06c0
+                                              2.257 1.605 4.14 3.737
+                                              4.568-.392.106-.803.162-1.227.162-.3
+                                              0-.593-.028-.877-.082.593 1.85
+                                              2.313 3.198 4.352 3.234-1.595
+                                              1.25-3.604 1.995-5.786 1.995-.376
+                                              0-.747-.022-1.112-.065 2.062 1.323
+                                              4.51 2.093 7.14 2.093 8.57 0
+                                              13.255-7.098 13.255-13.254
+                                              0-.2-.005-.402-.014-.602.91-.658
+                                              1.7-1.477 2.323-2.41z"></path>
+                                          </svg>
+                                          <span class="u03__site-name
+                                            twtr-type--bold-16
+                                            twtr-color--gray-0">ヘルプセンター</span>
+                                        </a>
+                                        <button type="button"
+                                          class="u03__close-button js-close"
+                                          aria-label="close">
+                                          <span class="twtr-hidden--xs
+                                            twtr-hidden--sm"><svg
+                                              xmlns="http://www.w3.org/2000/svg"
+                                              width="46" height="72" viewBox="0
+                                              0 46 72" aria-hidden="true"
+                                              focusable="false" role="none"
+                                              class="twtr-icon--lg
+                                              twtr-color-fill--white-neutral
+                                              has-hover">
+                                              <path d="M27.243
+                                                36l14.879-14.879a2.998 2.998 0 0
+                                                0 0-4.242 2.998 2.998 0 0
+                                                0-4.242 0L23 31.758 8.122
+                                                16.879a2.998 2.998 0 0 0-4.242 0
+                                                2.998 2.998 0 0 0 0 4.242L18.758
+                                                36 3.879 50.879A2.998 2.998 0 0
+                                                0 6.001 56a2.99 2.99 0 0 0
+                                                2.121-.879L23 40.242l14.879
+                                                14.879A2.991 2.991 0 0 0 40
+                                                56a2.998 2.998 0 0 0
+                                                2.121-5.121L27.243 36z"></path>
+                                            </svg></span>
+                                          <span class="twtr-hidden--md
+                                            twtr-hidden--lg twtr-hidden--xl"><svg
+                                              xmlns="http://www.w3.org/2000/svg"
+                                              width="46" height="72" viewBox="0
+                                              0 46 72" aria-hidden="true"
+                                              focusable="false" role="none"
+                                              class="twtr-icon--lg
+                                              twtr-color-fill--white-neutral
+                                              has-hover">
+                                              <path d="M27.243
+                                                36l14.879-14.879a2.998 2.998 0 0
+                                                0 0-4.242 2.998 2.998 0 0
+                                                0-4.242 0L23 31.758 8.122
+                                                16.879a2.998 2.998 0 0 0-4.242 0
+                                                2.998 2.998 0 0 0 0 4.242L18.758
+                                                36 3.879 50.879A2.998 2.998 0 0
+                                                0 6.001 56a2.99 2.99 0 0 0
+                                                2.121-.879L23 40.242l14.879
+                                                14.879A2.991 2.991 0 0 0 40
+                                                56a2.998 2.998 0 0 0
+                                                2.121-5.121L27.243 36z"></path>
+                                            </svg></span>
+                                        </button>
+                                        <div class="u03__region-list-container">
+                                          <div class="twtr-container">
+                                            <ul class="u03__region-list
+                                              twtr-grid"
+                                              data-choose-text="地域を選択"
+                                              data-back-text="戻る">
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ur/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/en/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  English
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/es/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Español
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ja/rules-and-policies.html"
+                                                  class="twtr-color--blue-light
+                                                  u03__region-list-item--underline
+                                                  twtr-type--bold-24 has-hover"
+                                                  aria-current="page">
+                                                  日本語
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ko/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  한국어
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/pt/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Português
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/de/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Deutsch
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/tr/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Türkçe
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/fr/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Français
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/it/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Italiano
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ar/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  العربيّة
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/nl/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Nederlands
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/id/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Bahasa Indonesia
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ru/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Русский
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/hi/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  हिंदी
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/he/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  עברית
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/zh-cn/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  简体中文
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/zh-tw/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  繁體中文
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/th/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  ภาษาไทย
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/vi/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Tiếng Việt
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ms/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Melayu
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/fil/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Filipino
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/fa/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  فارسی‌
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/da/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Dansk
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/fi/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Suomi
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/sv/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Svenska
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/no/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Norsk
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/pl/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Polski
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/hu/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Magyar
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ro/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Română
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/cs/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Čeština
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/el/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Ελληνικά
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/uk/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Українська
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/mr/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  मराठी
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ta/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  தமிழ்
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/bg/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Български
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ca/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Català
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/hr/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Hrvatski
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/sr/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Српски
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/sk/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Slovenčina
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/kn/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  ಕನ್ನಡ
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ps/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  ಪಾಷ್ಟೋ
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/fa-af/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Dari
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/am/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/om/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Oromo
+                                                </a>
+                                              </li>
+
+
+                                              <li class="u03__region-list-item
+                                                twtr-col-md-4">
+                                                <a
+                                                  href="/ti/rules-and-policies.html"
+                                                  class="twtr-color--gray-0
+                                                  twtr-type--bold-24 has-hover">
+                                                  Tigrinya
+                                                </a>
+                                              </li>
+                                            </ul>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </footer>
+
+
+                      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      <div id="page-props"
+                        data-privacy-config="euCookieNoticeOnly"
+                        data-page-title="ルールとポリシー"
+                        data-no-access-page="https://help.twitter.com/ja"
+                        data-help-search-page="/content/help-twitter/ja/search-results"
+                        data-log-in-required="false"
+                        data-help-feedback-form-id="1148"
+                        data-page-path="/content/help-twitter/ja/rules-and-policies">
+                      </div>
+
+
+                      <script type="text/javascript"
+                        src="https://platform.twitter.com/widgets.js"></script>
+                      <script type="text/javascript"
+                        src="/etc/designs/help2-twitter/public/js/core.js.twhash.s.f.4feb664724e52d4fb36101e5a4607337.js"></script>
+                      <script type="text/javascript"
+                        src="/etc/designs/help2-twitter/public/js/project.js.twhash.s.f.c209c1833d0f8231d09f000ac9d8c724.js"></script>
+                      <script type="text/javascript"
+                        src="/etc/designs/help2-twitter/public/js/languages.js.twhash.s.f.fb1c01199f340f8fde1ec50a6818b688.js"></script>
+                      <div id="u12" class="u12-data-protection-notice">
+
+
+                        <div class="u12-data-protection-notice__item
+                          u12-data-protection-notice__item--a">
+
+
+
+
+
+                          <div class="js-eu-countries-list"
+                            data-eu-countries-list="[AT,BE,BG,CY,CZ,DK,EE,FI,FR,DE,EL,HU,IE,IT,LV,LT,LU,MT,NL,PL,PT,RO,SK,SI,ES,SE,UK,IS,NO,LI,CH]"></div>
+                          <div class="u12a-eu-cookie-notice js-eu-cookie-notice"
+                            id="u12a" data-cname="eu_cn">
+                            <div class="u12a-eu-cookie-notice__item
+                              u12-data-protection-notice__notice">
+                              <div class="u12a-eu-cookie-notice__content">
+
+                                <div class="u12a-eu-cookie-notice__copy">
+                                  <p class="mtc-font twtr-font js-cookie-copy">
+                                    Twitterのサービスをご利用になると、<a
+                                      href="https://help.twitter.com/ja/rules-and-policies/twitter-cookies"
+                                      target="_blank">Cookieの使用</a>に同意したものとみなされます。Cookieはアナリティクス、カスタマイズ、広告などに使われます。
+                                  </p>
+                                </div>
+
+                                <div class="u12a-eu-cookie-notice__choice">
+                                  <ul
+                                    class="u12a-eu-cookie-notice__choice-list">
+                                    <li><button
+                                        class="u12a-eu-cookie-notice__button
+                                        is-blue
+                                        u12a-eu-cookie-notice__button--accept
+                                        mtc-font twtr-font js-accept">OK</button></li>
+                                  </ul>
+                                </div>
+
+                              </div>
+                            </div>
+                          </div>
+
+
+                        </div>
+
+
+
+
+                      </div>
+
+
+
+
+                      <link rel="stylesheet"
+                        href="/etc/designs/common-twitter/clientlib-u12-data-protection-notice.min.twhash.s.cl.e5f41c96ebe26adc278fe501d69fdebf.css"
+                        type="text/css">
+                      <script
+                        src="/etc/designs/common-twitter/clientlib-promise-polyfill.min.twhash.s.cl.678c3c47bfcf62393184734a7204fcdf.js"></script>
+                      <script
+                        src="/etc/designs/common-twitter/clientlib-twtr-profile-adapter.min.twhash.s.cl.2f6a2e41ae41c33aba9f8a7dcf876eb6.js"></script>
+                      <script
+                        src="/etc/designs/common-twitter/clientlib-u12-data-protection-notice.min.twhash.s.cl.dd36791d0d028510f49c89c6d8b44746.js"></script>
+                      <script
+                        src="/etc/designs/boilerplate-twitter/clientlibs-refsource.min.twhash.s.cl.7130200325ea3a5900605ca508f725b9.js"></script>
+                    </div>
+
+
+
+                  </body>
