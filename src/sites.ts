@@ -10,5 +10,9 @@ export const SITES = [
   {
     url: 'https://developer.twitter.com/ja/developer-terms/agreement',
     name: 'twitter-developer-terms-agreement',
-  }
+  },
+  {
+    url: 'https://developer.twitter.com/ja/developer-terms/policy',
+    name: 'twitter-developer-terms-policy',
+  },
 ];
