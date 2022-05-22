@@ -1,8 +1,9 @@
 import { request } from 'undici'
-import { SITES } from './sites';
 const jsdom = require('jsdom');
 const fs = require('fs');
 const { JSDOM } = jsdom;
+const format = require('html-format');
+import { SITES } from './sites';
 
 
 const writeFile = (path: string, data: string) => {
@@ -22,7 +23,8 @@ const getSite = async (url: string, name: string) => {
   console.log(`${name}: ${statusCode}`);
   if (statusCode === 200) {
     const dom = new JSDOM(await body.text());
-    writeFile(`${__dirname}/../dist/${name}`, dom.window.document.querySelector('body').outerHTML);
+    const html = format(dom.window.document.querySelector('body').outerHTML);
+    writeFile(`${__dirname}/../dist/${name}`, html);
   }
 }
 
