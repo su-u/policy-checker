@@ -11,14 +11,18 @@ const removeUnnecessaryDom = (dom: any) => {
   dom.window.document.querySelectorAll('[data-no-access-page]').forEach((element: any) => element.removeAttribute('data-no-access-page'));
   dom.window.document.querySelectorAll('[data-help-search-page]').forEach((element: any) => element.removeAttribute('data-help-search-page'));
   dom.window.document.querySelectorAll('[data-links-json]').forEach((element: any) => element.removeAttribute('data-links-json'));
+  dom.window.document.querySelectorAll('[aria-labelledby]').forEach((element: any) => element.removeAttribute('aria-labelledby'));
+  dom.window.document.querySelectorAll('[aria-controls]').forEach((element: any) => element.removeAttribute('aria-controls'));
   dom.window.document.querySelectorAll('[id]').forEach((element: any) => element.removeAttribute('id'));
   dom.window.document.querySelectorAll('[value]').forEach((element: any) => element.removeAttribute('value'));
   dom.window.document.querySelectorAll('[class]').forEach((element: any) => element.removeAttribute('class'));
   dom.window.document.querySelectorAll('[data-value]').forEach((element: any) => element.removeAttribute('data-value'));
+  dom.window.document.querySelectorAll('[action]').forEach((element: any) => element.removeAttribute('action'));
 
   // Node
   dom.window.document.querySelectorAll('link').forEach((element: any) => element.remove());
   dom.window.document.querySelectorAll('script').forEach((element: any) => element.remove());
+  dom.window.document.querySelectorAll('body > div > code').forEach((element: any) => element.remove());
 };
 
 const writeHTML = (text: string, name: string) => {
