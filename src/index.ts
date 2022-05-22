@@ -31,6 +31,11 @@ const writeHTML = (text: string, name: string) => {
 
   // 不要な差分削除
   dom.window.document.querySelectorAll('[data-json-str]').forEach((element: any) => element.removeAttribute('data-json-str'));
+  dom.window.document.querySelectorAll('[data-log-in-required]').forEach((element: any) => element.removeAttribute('data-log-in-required'));
+  dom.window.document.querySelectorAll('[data-page-title]').forEach((element: any) => element.removeAttribute('data-page-title'));
+  dom.window.document.querySelectorAll('[data-no-access-page]').forEach((element: any) => element.removeAttribute('data-no-access-page'));
+  dom.window.document.querySelectorAll('[data-help-search-page]').forEach((element: any) => element.removeAttribute('data-help-search-page'));
+
   dom.window.document.querySelectorAll('link').forEach((element: any) => element.remove());
   dom.window.document.querySelectorAll('script').forEach((element: any) => element.remove());
 
