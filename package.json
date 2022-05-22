@@ -5,7 +5,7 @@
   "author": "su-u",
   "license": "MIT",
   "scripts": {
-    "do": "ts-node .\\src\\index.ts"
+    "do": "ts-node ./src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^17.0.35"
