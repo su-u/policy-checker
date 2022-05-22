@@ -2,7 +2,7 @@ import { request } from 'undici'
 const jsdom = require('jsdom');
 const fs = require('fs');
 const { JSDOM } = jsdom;
-const format = require('html-format');
+const prettify = require('html-prettify');
 import { SITES } from './sites';
 
 
@@ -18,7 +18,9 @@ const writeFile = (path: string, data: string) => {
 const writeHTML = (text: string, name: string) => {
   const dom = new JSDOM(text);
   dom.window.document.querySelectorAll('[data-json-str]').forEach((element: any) => element.removeAttribute('data-json-str'));
-  const html = format(dom.window.document.querySelector('body').outerHTML);
+  dom.window.document.querySelectorAll('link').forEach((element: any) => element.remove());
+  dom.window.document.querySelectorAll('script').forEach((element: any) => element.remove());
+  const html = prettify(dom.window.document.querySelector('body').outerHTML);
   writeFile(`${__dirname}/../dist/${name}`, html);
 };
 

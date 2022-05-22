@@ -232,10 +232,10 @@ html-encoding-sniffer@^3.0.0:
   dependencies:
     whatwg-encoding "^2.0.0"
 
-html-format@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/html-format/-/html-format-1.0.1.tgz#3f518be1a1123e2d378716aef662c07ed2a0e008"
-  integrity sha512-ePp+h+akaQiLeCGPefWQ4QJXVXhWx4sU4ZxJVFlaY0AeVgh/tnHGTL27ao09JrdEEelXYMAWi4ynKKheck4tdw==
+html-prettify@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/html-prettify/-/html-prettify-1.0.6.tgz#fbd60a67779403049a20184640d92d26f000e9a8"
+  integrity sha512-a2e5NX3pjP1io0Up0d3JOr+tMwKy8IsT4JaMMLznXzuuqPlthnvNdKd3lesQpu37/XWiA28FvDYQU0w/RlAymA==
 
 http-proxy-agent@^5.0.0:
   version "5.0.0"
