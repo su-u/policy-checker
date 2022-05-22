@@ -8,12 +8,32 @@ export const SITES = [
     name: '【Twitter】Twitter開発者ポリシーおよび契約',
   },
   {
+    url: 'https://developer.twitter.com/ja/developer-terms/more-on-restricted-use-cases',
+    name: '【Twitter】利用目的の制限',
+  },
+  {
     url: 'https://developer.twitter.com/ja/developer-terms/agreement',
     name: '【Twitter】開発者契約',
   },
   {
+    url: 'https://help.twitter.com/ja/rules-and-policies/twitter-api',
+    name: '【Twitter】TwitterのAPIについて',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/twitter-limits',
+    name: '【Twitter】Twitterリミットについて',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/platform-manipulation',
+    name: '【Twitter】プラットフォームの操作とスパムに関するポリシー',
+  },
+  {
     url: 'https://developer.twitter.com/ja/developer-terms/policy',
     name: '【Twitter】開発者ポリシー',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/twitter-rules',
+    name: '【Twitter】Twitterルール',
   },
   {
     url: 'https://twitter.com/ja/privacy',
