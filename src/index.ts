@@ -2,9 +2,20 @@ import { request } from 'undici'
 const jsdom = require('jsdom');
 const fs = require('fs');
 const { JSDOM } = jsdom;
-const prettify = require('html-prettify');
+const beautify = require('js-beautify');
 import { SITES } from './sites';
 
+// 整形オプション
+// https://www.npmjs.com/package/js-beautify
+const beautifyOptions = {
+  indent_size: 2,
+  end_with_newline: true,
+  preserve_newlines: false,
+  max_preserve_newlines: 0,
+  wrap_line_length: 0,
+  wrap_attributes_indent_size: 0,
+  unformatted: ['b', 'em']
+};
 
 const writeFile = (path: string, data: string) => {
   fs.writeFile(path, data, function (err: any) {
@@ -23,7 +34,7 @@ const writeHTML = (text: string, name: string) => {
   dom.window.document.querySelectorAll('link').forEach((element: any) => element.remove());
   dom.window.document.querySelectorAll('script').forEach((element: any) => element.remove());
 
-  const html = prettify(dom.window.document.querySelector('body').outerHTML);
+  const html = beautify.html(dom.window.document.querySelector('body').outerHTML, beautifyOptions);
   writeFile(`${__dirname}/../dist/${name}.html`, html);
 };
 
