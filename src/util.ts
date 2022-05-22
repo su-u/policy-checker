@@ -36,7 +36,6 @@ export const request = async (url: string) => {
 
     if (status !== 200) {
       console.log(headers);
-      console.log(data);
     }
 
 

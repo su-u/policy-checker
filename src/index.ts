@@ -5,19 +5,20 @@ import { SITES } from './sites';
 
 const removeUnnecessaryDom = (dom: any) => {
   // Attribute
-  dom.window.document.querySelectorAll('[data-json-str]').forEach((element: any) => element.removeAttribute('data-json-str'));
-  dom.window.document.querySelectorAll('[data-log-in-required]').forEach((element: any) => element.removeAttribute('data-log-in-required'));
-  dom.window.document.querySelectorAll('[data-page-title]').forEach((element: any) => element.removeAttribute('data-page-title'));
-  dom.window.document.querySelectorAll('[data-no-access-page]').forEach((element: any) => element.removeAttribute('data-no-access-page'));
-  dom.window.document.querySelectorAll('[data-help-search-page]').forEach((element: any) => element.removeAttribute('data-help-search-page'));
-  dom.window.document.querySelectorAll('[data-links-json]').forEach((element: any) => element.removeAttribute('data-links-json'));
-  dom.window.document.querySelectorAll('[aria-labelledby]').forEach((element: any) => element.removeAttribute('aria-labelledby'));
-  dom.window.document.querySelectorAll('[aria-controls]').forEach((element: any) => element.removeAttribute('aria-controls'));
-  dom.window.document.querySelectorAll('[id]').forEach((element: any) => element.removeAttribute('id'));
-  dom.window.document.querySelectorAll('[value]').forEach((element: any) => element.removeAttribute('value'));
-  dom.window.document.querySelectorAll('[class]').forEach((element: any) => element.removeAttribute('class'));
-  dom.window.document.querySelectorAll('[data-value]').forEach((element: any) => element.removeAttribute('data-value'));
-  dom.window.document.querySelectorAll('[action]').forEach((element: any) => element.removeAttribute('action'));
+  dom.window.document.querySelectorAll('[data-json-str]').forEach((element: HTMLElement) => element.removeAttribute('data-json-str'));
+  dom.window.document.querySelectorAll('[data-log-in-required]').forEach((element: HTMLElement) => element.removeAttribute('data-log-in-required'));
+  dom.window.document.querySelectorAll('[data-page-title]').forEach((element: HTMLElement) => element.removeAttribute('data-page-title'));
+  dom.window.document.querySelectorAll('[data-no-access-page]').forEach((element: HTMLElement) => element.removeAttribute('data-no-access-page'));
+  dom.window.document.querySelectorAll('[data-help-search-page]').forEach((element: HTMLElement) => element.removeAttribute('data-help-search-page'));
+  dom.window.document.querySelectorAll('[data-links-json]').forEach((element: HTMLElement) => element.removeAttribute('data-links-json'));
+  dom.window.document.querySelectorAll('[aria-labelledby]').forEach((element: HTMLElement) => element.removeAttribute('aria-labelledby'));
+  dom.window.document.querySelectorAll('[aria-controls]').forEach((element: HTMLElement) => element.removeAttribute('aria-controls'));
+  dom.window.document.querySelectorAll('[id]').forEach((element: HTMLElement) => element.removeAttribute('id'));
+  dom.window.document.querySelectorAll('[value]').forEach((element: HTMLElement) => element.removeAttribute('value'));
+  dom.window.document.querySelectorAll('[class]').forEach((element: HTMLElement) => element.removeAttribute('class'));
+  dom.window.document.querySelectorAll('[data-value]').forEach((element: HTMLElement) => element.removeAttribute('data-value'));
+  dom.window.document.querySelectorAll('[action]').forEach((element: HTMLElement) => element.removeAttribute('action'));
+  dom.window.document.querySelectorAll('img[data-src]').forEach((element: HTMLElement) => element.removeAttribute('data-src'));
   dom.window.document.querySelectorAll('[src]').forEach((element: HTMLElement) => {
     const src = element.getAttribute('src');
     src && element.setAttribute('src', src?.replace(/\?.*$/,""))
@@ -26,12 +27,13 @@ const removeUnnecessaryDom = (dom: any) => {
     const href = element.getAttribute('href');
     href && element.setAttribute('href', href?.replace(/\?.*$/,""))
   });
+  dom.window.document.querySelectorAll('img[src]').forEach((element: HTMLElement) => element.removeAttribute('src'));
 
 
   // Node
-  dom.window.document.querySelectorAll('link').forEach((element: any) => element.remove());
-  dom.window.document.querySelectorAll('script').forEach((element: any) => element.remove());
-  dom.window.document.querySelectorAll('body > div > code').forEach((element: any) => element.remove());
+  dom.window.document.querySelectorAll('link').forEach((element: HTMLElement) => element.remove());
+  dom.window.document.querySelectorAll('script').forEach((element: HTMLElement) => element.remove());
+  dom.window.document.querySelectorAll('body > div > code').forEach((element: HTMLElement) => element.remove());
 };
 
 const writeHTML = (text: string, name: string) => {
