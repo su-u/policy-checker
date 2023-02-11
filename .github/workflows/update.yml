@@ -30,9 +30,9 @@ jobs:
           git add -N . # 新規ファイルを含める
           if ! git diff --exit-code --quiet
           then
-          git config --local user.email "aaaiiiuuu35@gmail.com"
+          git config --local user.email "happy.oil2469@fastmail.com"
           git config --local user.name "su-u"
             git add .
-            git commit -m "Update: sites from github actions"
+            git commit -m "Update: github actions"
             git push
           fi
