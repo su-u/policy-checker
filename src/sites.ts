@@ -8,12 +8,20 @@ export const SITES = [
     name: '【Twitter】Twitter開発者ポリシーおよび契約',
   },
   {
+    url: 'https://developer.twitter.com/ja/more/developer-terms',
+    name: '【Twitter】Twitter開発者ポリシーおよび契約',
+  },
+  {
     url: 'https://developer.twitter.com/ja/developer-terms/more-on-restricted-use-cases',
     name: '【Twitter】利用目的の制限',
   },
   {
     url: 'https://developer.twitter.com/ja/developer-terms/agreement',
     name: '【Twitter】開発者契約',
+  },
+  {
+    url: 'https://developer.twitter.com/en/developer-terms/agreement',
+    name: '【Twitter】Developer Agreement',
   },
   {
     url: 'https://help.twitter.com/ja/rules-and-policies/twitter-api',
@@ -32,8 +40,16 @@ export const SITES = [
     name: '【Twitter】開発者ポリシー',
   },
   {
+    url: 'https://developer.twitter.com/en/developer-terms/policy',
+    name: '【Twitter】Developer Policy',
+  },
+  {
     url: 'https://help.twitter.com/ja/rules-and-policies/twitter-rules',
     name: '【Twitter】Twitterルール',
+  },
+  {
+    url: 'https://help.twitter.com/en/rules-and-policies/twitter-rules',
+    name: '【Twitter】The Twitter Rules',
   },
   {
     url: 'https://twitter.com/ja/privacy',
