@@ -29,7 +29,7 @@ export const SITES = [
   },
   {
     url: 'https://help.twitter.com/ja/rules-and-policies/x-limits',
-    name: '【Twitter】Xリミットについて',
+    name: '【Twitter】Twitterリミットについて',
   },
   {
     url: 'https://help.twitter.com/ja/rules-and-policies/platform-manipulation',
