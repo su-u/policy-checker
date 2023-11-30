@@ -35,7 +35,7 @@ export const request = async (url: string) => {
     } = res;
 
     if (status !== 200) {
-      console.log(headers);
+      console.error(status, headers);
     }
 
 

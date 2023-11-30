@@ -24,12 +24,12 @@ export const SITES = [
     name: '【Twitter】Developer Agreement',
   },
   {
-    url: 'https://help.twitter.com/ja/rules-and-policies/twitter-api',
+    url: 'https://help.twitter.com/ja/rules-and-policies/x-api',
     name: '【Twitter】TwitterのAPIについて',
   },
   {
-    url: 'https://help.twitter.com/ja/rules-and-policies/twitter-limits',
-    name: '【Twitter】Twitterリミットについて',
+    url: 'https://help.twitter.com/ja/rules-and-policies/x-limits',
+    name: '【Twitter】Xリミットについて',
   },
   {
     url: 'https://help.twitter.com/ja/rules-and-policies/platform-manipulation',
@@ -58,6 +58,50 @@ export const SITES = [
   {
     url: 'https://twitter.com/ja/tos',
     name: '【Twitter】Twitterサービス利用規約',
+  },
+  {
+    url: 'https://help.twitter.com/ja/managing-your-account',
+    name: '【Twitter】アカウントの管理',
+  },
+  {
+    url: 'https://help.twitter.com/ja/using-x',
+    name: '【Twitter】X活用法',
+  },
+  {
+    url: 'https://help.twitter.com/ja/safety-and-security',
+    name: '【Twitter】安全性とセキュリティ',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies',
+    name: '【Twitter】ルールとポリシー',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/fair-use-policy',
+    name: '【Twitter】フェアユースポリシー',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/content-monetization-standards',
+    name: '【Twitter】コンテンツの収益化に関する基準',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/misuse-of-reporting-features',
+    name: '【Twitter】報告機能の不正使用に関するポリシー',
+  },
+  {
+    url: 'https://help.twitter.com/ja/using-x/following-faqs',
+    name: '【Twitter】フォローについてのよくある質問',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/twitter-cookies-japan',
+    name: '【Twitter】XにおけるCookieの用途',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/paid-partnerships',
+    name: '【Twitter】有料パートナーシップに関するポリシー',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/super-follows-policy',
+    name: '【Twitter】スーパーフォローに関するポリシー',
   },
   {
     url: 'https://transparency.fb.com/ja-jp/policies/community-standards?locale=ja_JP',
