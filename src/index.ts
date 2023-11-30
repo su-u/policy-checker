@@ -4,20 +4,37 @@ import { request, writeFile, format } from './util';
 import { SITES } from './sites';
 
 const removeUnnecessaryDom = (dom: any) => {
+  const remove = (selectors: string) => {
+    dom.window.document.querySelectorAll(`[${selectors}]`).forEach((element: HTMLElement) => element.removeAttribute(`${selectors}`));
+  }
+
+
   // Attribute
-  dom.window.document.querySelectorAll('[data-json-str]').forEach((element: HTMLElement) => element.removeAttribute('data-json-str'));
-  dom.window.document.querySelectorAll('[data-log-in-required]').forEach((element: HTMLElement) => element.removeAttribute('data-log-in-required'));
-  dom.window.document.querySelectorAll('[data-page-title]').forEach((element: HTMLElement) => element.removeAttribute('data-page-title'));
-  dom.window.document.querySelectorAll('[data-no-access-page]').forEach((element: HTMLElement) => element.removeAttribute('data-no-access-page'));
-  dom.window.document.querySelectorAll('[data-help-search-page]').forEach((element: HTMLElement) => element.removeAttribute('data-help-search-page'));
-  dom.window.document.querySelectorAll('[data-links-json]').forEach((element: HTMLElement) => element.removeAttribute('data-links-json'));
-  dom.window.document.querySelectorAll('[aria-labelledby]').forEach((element: HTMLElement) => element.removeAttribute('aria-labelledby'));
-  dom.window.document.querySelectorAll('[aria-controls]').forEach((element: HTMLElement) => element.removeAttribute('aria-controls'));
-  dom.window.document.querySelectorAll('[id]').forEach((element: HTMLElement) => element.removeAttribute('id'));
-  dom.window.document.querySelectorAll('[value]').forEach((element: HTMLElement) => element.removeAttribute('value'));
-  dom.window.document.querySelectorAll('[class]').forEach((element: HTMLElement) => element.removeAttribute('class'));
-  dom.window.document.querySelectorAll('[data-value]').forEach((element: HTMLElement) => element.removeAttribute('data-value'));
-  dom.window.document.querySelectorAll('[action]').forEach((element: HTMLElement) => element.removeAttribute('action'));
+  const removeAttributes = [
+    'data-json-str',
+    'data-log-in-required',
+    'data-page-title',
+    'data-no-access-page',
+    'data-help-search-page',
+    'data-links-json',
+    'aria-labelledby',
+    'aria-controls',
+    'data-analytics-component',
+    'data-icon-chevron-down',
+    'data-icon-search',
+    'id',
+    'value',
+    'class',
+    'data-value',
+    'action',
+    '',
+    '',
+    '',
+    '',
+  ];
+  removeAttributes.forEach((selector: string) => remove(selector));
+
+
   dom.window.document.querySelectorAll('img[data-src]').forEach((element: HTMLElement) => element.removeAttribute('data-src'));
   dom.window.document.querySelectorAll('[src]').forEach((element: HTMLElement) => {
     const src = element.getAttribute('src');
@@ -28,7 +45,10 @@ const removeUnnecessaryDom = (dom: any) => {
     href && element.setAttribute('href', href?.replace(/\?.*$/,""))
   });
   dom.window.document.querySelectorAll('img[src]').forEach((element: HTMLElement) => element.removeAttribute('src'));
-
+  console.log(dom.window.document.querySelectorAll('body'));
+    // .map((x: HTMLElement) => Object.values(x.attributes).filter(x => x.name.match(/data-*/)).forEach((x: any) =>
+    //   dom.window.document.querySelectorAll(`${x}`).forEach((element: HTMLElement) => element.removeAttribute(`${x}`))
+    // ));
 
   // Node
   dom.window.document.querySelectorAll('link').forEach((element: HTMLElement) => element.remove());
