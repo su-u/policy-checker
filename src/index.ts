@@ -100,7 +100,6 @@ const removeUnnecessaryDom = (dom: any) => {
     'data-privacy-config',
     'data-help-feedback-form-id',
     'data-testid',
-    ''
   ].forEach((selector: string) => remove(selector));
 
   dom.window.document.querySelectorAll('img[data-src]').forEach((element: HTMLElement) => element.removeAttribute('data-src'));
