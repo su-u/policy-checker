@@ -116,6 +116,10 @@ export const SITES = [
     name: '【Instagram】Instagramコミュニティガイドライン',
   },
   {
+    url: 'https://developers.facebook.com/docs/instagram-api/changelog?locale=ja_JP',
+    name: '【Instagram】更新履歴',
+  },
+  {
     url: 'https://developers.facebook.com/devpolicy/?locale=ja_JP',
     name: '【Meta】Meta開発者ポリシー',
   },
