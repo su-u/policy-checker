@@ -104,6 +104,10 @@ export const SITES = [
     name: '【Twitter】スーパーフォローに関するポリシー',
   },
   {
+    url: 'https://developers.facebook.com/docs/graph-api/changelog',
+    name: '【Facebook】更新履歴',
+  },
+  {
     url: 'https://transparency.fb.com/ja-jp/policies/community-standards?locale=ja_JP',
     name: '【Facebook】Facebookコミュニティ規定',
   },
