@@ -1,0 +1,553 @@
+<body>
+  <div>
+    <div><iframe></iframe></div>
+    <div><iframe></iframe></div>
+    <div><iframe></iframe></div>
+    <div><iframe></iframe></div><span><img></span>
+    <div>
+      <div></div>
+      <div>
+        <div>
+          <div>
+            <div>
+              <div></div>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <div><a href="/docs/instagram">Instagramプラットフォーム</a></div>
+                        <ul>
+                          <li><a href="/docs/instagram-api">InstagramグラフAPI</a></li>
+                          <li><a href="/docs/instagram-basic-display-api">Instagram基本表示API</a></li>
+                          <li><a href="/docs/instagram/sharing-to-feed">フィードへのシェア</a></li>
+                          <li><a href="/docs/instagram/sharing-to-stories">ストーリーズへのシェア</a></li>
+                          <li><a href="/docs/instagram/oembed">oEmbed</a></li>
+                          <li><a href="/docs/instagram/oembed-legacy">oEmbed(従来型)</a></li>
+                          <li><a href="/docs/instagram/embed-button">埋め込みボタン</a></li>
+                          <li><a href="/docs/instagram/business-login-for-instagram">Business Login for Instagram</a></li>
+                        </ul>
+                      </div>
+                      <div><span aria-busy="true" aria-valuemin="0" aria-valuemax="100" aria-valuetext="読み込み中..."></span></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div></div>
+                <div>
+                  <div>
+                    <div><span>
+                        <div>
+                          <div>
+                            <div>
+                              <h1>更新履歴</h1>
+                              <p>この更新履歴は、InstagramグラフAPIに行われた変更について説明しています。</p>
+                              <h3>関連更新履歴</h3>
+                              <ul>
+                                <li>
+                                  <div><a href="/docs/graph-api/changelog">グラフAPIの変更履歴<img alt=""></a></div>
+                                </li>
+                                <li>
+                                  <div><a href="https://developers.facebook.com/docs/messenger-platform/changelog"> Messengerプラットフォームの更新履歴<img alt=""></a>(Instagramメッセージを含む) </div>
+                                </li>
+                                <li>
+                                  <div><a href="/docs/graph-api/changelog">マーケティングAPIの更新履歴<img alt=""></a></div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2023年9月12日</h2>
+                              <div>
+                                <div>
+                                  <div>
+                                    <h4>Deprecation of Media and User Insights</h4>
+                                    <p><em>Applies to v18.0+. Will apply to all versions on December 11, 2023.</em></p>
+                                    <p>Duplicative and legacy Instagram insight metrics are being deprecated. Please see documentation for the endpoints and <a href="/docs/instagram-api/guides/insights">Instagram Insights</a> for more information on which metrics to use in their place.</p>
+                                    <p>The following endpoints and metrics are affected:</p>
+                                    <ul>
+                                      <li><a href="/docs/instagram-api/reference/ig-user/insights"><code>GET /{ig-user-id}/insights</code></a>
+                                        <ul>
+                                          <li><code>AUDIENCE_GENDER_AGE</code></li>
+                                          <li><code>AUDIENCE_LOCALE</code></li>
+                                          <li><code>AUDIENCE_COUNTRY</code></li>
+                                          <li><code>AUDIENCE_CITY</code></li>
+                                        </ul>
+                                      </li>
+                                      <li><a href="/docs/instagram-api/reference/ig-media/insights"><code>GET /{ig-media-id}/insights</code></a>
+                                        <ul>
+                                          <li><code>CAROUSEL_ALBUM_IMPRESSIONS</code></li>
+                                          <li><code>CAROUSEL_ALBUM_REACH</code></li>
+                                          <li><code>CAROUSEL_ALBUM_ENGAGEMENT</code></li>
+                                          <li><code>CAROUSEL_ALBUM_SAVED</code></li>
+                                          <li><code>CAROUSEL_ALBUM_VIDEO_VIEWS</code></li>
+                                          <li><code>TAPS_FORWARD</code></li>
+                                          <li><code>TAPS_BACK</code></li>
+                                          <li><code>EXITS</code></li>
+                                          <li><code>ENGAGEMENT</code></li>
+                                        </ul>
+                                      </li>
+                                    </ul>
+                                    <p><strong>Note:</strong> <code>total_interactions</code>, which is listed as an alternative for some of the deprecated metrics, is currently only available using version 18.0 and does not work with older versions. When querying older versions before Dec 11, 2023, please use the <code>engagement</code> metric.<code>total_interactions</code>, which is listed as an alternative for some of the deprecated metrics, is currently only available using version 18.0 and does not work with older versions. When querying older versions before Dec 11, 2023, please use the <code>engagement</code> metric.</p>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2022年11月9日</h2>
+                              <h4>Instagram Webhooks</h4>
+                              <p><em>すべてのバージョンに適用。</em></p>
+                              <p><a href="https://l.facebook.com/l.php" rel="nofollow" data-lynx-mode="hover">宣伝中のInstagram投稿またはInstagram広告投稿</a>にコメントが付けられると、<code>ad_id</code>と<code>ad_title</code>が<code>comments</code>フィールドの<code>value</code>オブジェクトの<code>media</code>オブジェクトで返されるようになります。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>10月31日</h2>
+                              <h4>リール – 商品タグ</h4>
+                              <p><em>すべてのバージョンに適用。</em></p>
+                              <p>リール用Instagram商品タグ付けAPIが利用可能になりました。リールを公開する際、最大で30個の商品をタグ付けできます。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2022年6月28日</h2>
+                              <div><span>
+                                  <h4>リール動画</h4>
+                                  <p><em>すべてのバージョンに適用。</em></p>
+                                  <p>リール動画対応となりました。リールとして動画を公開するには、<a href="/docs/instagram-api/guides/content-publishing#single-media-posts">単一メディア投稿</a>コンテナを作成する際に、<code>media_type</code>パラメーターを<code>REELS</code>に設定します。<a href="/docs/instagram-api/reference/ig-user/media#creating"><code>POST /ig-user/media endpoint</code></a>リールに使用できるパラメーターやリール動画の要件については、参照ファイルをご覧ください。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2022年6月27日</h2>
+                              <div><span>
+                                  <h4>レガシーInstagram APIのドキュメント</h4>
+                                  <p><em>すべてのバージョンに適用。</em></p>
+                                  <p><a href="https://l.facebook.com/l.php" rel="nofollow" data-lynx-mode="hover">レガシーInstagram APIの開発者ドキュメント</a>は削除されており、<a href="/docs/instagram">Instagramプラットフォーム</a>開発者ドキュメントにリダイレクトされます。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2022年6月20日</h2>
+                              <div><span>
+                                  <h4>商品タグ付け</h4>
+                                  <p><em>すべてのバージョンに適用。</em></p>
+                                  <p>Instagram Businessの公開メディア上で<a href="https://l.facebook.com/l.php" rel="nofollow" data-lynx-mode="hover">Instagramショッピング商品タグ</a>を作成したり管理したりすることができるようになりました。詳しくは、<a href="/docs/instagram-api/guides/product-tagging">製品のタグ付け</a>ガイドを参照してください。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2022年5月27日</h2>
+                              <h4>商品のバリエーション</h4>
+                              <p><em>すべてのバージョンに適用。</em></p>
+                              <p><a href="/docs/instagram-api/guides/product-tagging">商品のタグ付け</a>ベータ版パートナーについては、<a href="/docs/instagram-api/guides/product-tagging#get-eligible-products">カタログからの商品検索</a>で、クエリの検索条件に一致するすべての<a href="/docs/marketing-api/catalog/guides/product-variants">商品バリエーション</a>が返されるようになります。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2022年3月15日</h2>
+                              <div><span>
+                                  <h4>カルーセル投稿</h4>
+                                  <p>全バージョンに適用。</p>
+                                  <p>Instagram APIを使って、複数の画像や動画を含む投稿(<a href="/docs/instagram-api/guides/content-publishing#carousel-posts">カルーセル投稿</a>)を公開できるようになりました。公開の手順について詳しくは、<a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing">コンテンツ公開</a>のガイドをご覧ください。</p>
+                                  <p>アプリでコンテンツ公開に必要な<a href="/docs/instagram-api/guides/content-publishing#permissions">アクセス許可</a>がすでに承認されている場合、この機能を利用するために再度<a href="/docs/app-review">アプリレビュー</a>を受ける必要はありません。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年11月9日</h2>
+                              <div><span>
+                                  <h4>ライブ動画</h4>
+                                  <p><em>すべてのバージョンに適用。</em></p>
+                                  <p>Instagram APIを使用することにより、アプリユーザーにより配信中のライブ動画IGメディアを取得したり、それらの動画へのコメントを取得したり、InstagramメッセージAPIを使用してコメント作者に非公開返信(ダイレクトメッセージ)を送信したりできるようになりました。この機能をサポートするため、以下の変更がなされています。</p>
+                                  <ul>
+                                    <li>
+                                      <div>新しい<a href="/docs/instagram-api/reference/ig-user/live_media#reading">GET /ig-user/live_media</a>エッジにより、リクエスト時点でアプリユーザーにより配信中のライブ動画<a href="/docs/instagram-api/reference/ig-media/">IGメディア</a>を返すことができます</div>
+                                    </li>
+                                    <li>
+                                      <div><a href="/docs/instagram-api/reference/ig-comment/">IGコメント</a>の<code>media</code>フィールドにより、コメントの付けられたメディアについてのID (<code>id</code>)と公開場所(<code>media_product_type</code>)の両方を含むオブジェクトが返されるようになりました</div>
+                                    </li>
+                                    <li>
+                                      <div>新しいInstagram Webhooksフィールドである<a href="/docs/graph-api/webhooks/reference/instagram/#live_comments"><code>live_comments</code></a>により、アプリユーザーのライブ動画の配信中に付けられたライブコメントが含まれる通知を送信することができます</div>
+                                    </li>
+                                  </ul>
+                                  <p>アプリユーザーのライブ動画IGメディアにコメントを付けたユーザーに<a href="/docs/messenger-platform/instagram/features/private-replies">非公開返信</a>を送信する方法について詳しくは、<a href="/docs/messenger-platform/instagram">InstagramメッセージAPI</a>の非公開返信についてのドキュメントをご覧ください。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年10月20日</h2>
+                              <div><span>
+                                  <h4>IGコメント</h4>
+                                  <p><em>すべてのバージョンに適用。</em></p>
+                                  <p>2つの新しい<a href="/docs/instagram-api/reference/ig-comment#fields">フィールド</a>が<a href="/docs/instagram-api/reference/ig-comment">IG コメント</a>に追加されました。</p>
+                                  <ul>
+                                    <li>
+                                      <div><code>from</code> — コメント作成者の<a href="/docs/messenger-platform/instagram/overview#igsid">IGSID</a> (<code>id</code>)とユーザー名(<code>username</code>)を含むオブジェクトを返します。</div>
+                                    </li>
+                                    <li>
+                                      <div><code>parent_id</code> — コメントが別のIGコメントに対して作成されたもの(別のコメントへの返信)である場合、親IGコメントのIDを返します。</div>
+                                    </li>
+                                  </ul>
+                                  <h4>Instagram Webhooks</h4>
+                                  <p><em>すべてのバージョンに適用。</em></p>
+                                  <p>Instagram Webhooksの<code>comments</code><a href="/docs/graph-api/webhooks/reference/instagram/#comments">フィールド</a>で、<code>value</code>フィールドオブジェクトに以下のプロパティが含まれるようになりました。</p>
+                                  <ul>
+                                    <li>
+                                      <div><code>from.id</code> — コメントを作成したInstagramユーザーの<a href="/docs/messenger-platform/instagram/overview#igsid">IGSID</a>。</div>
+                                    </li>
+                                    <li>
+                                      <div><code>from.username</code> — コメントを作成したInstagramユーザーのユーザー名。</div>
+                                    </li>
+                                    <li>
+                                      <div><code>media.id</code> — コメントが作成されたIGメディアのID。</div>
+                                    </li>
+                                    <li>
+                                      <div><code>media.media_product_type</code> — コメントが作成されたIGメディアのサーフェス(公開場所)。</div>
+                                    </li>
+                                    <li>
+                                      <div><code>parent_id</code> — コメントが別のIGコメントに対して作成されたもの(別のコメントへの返信)である場合、親IGコメントのID。</div>
+                                    </li>
+                                  </ul>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年10月5日</h2>
+                              <div><span>
+                                  <p>2021年10月5日以降に作成されたInstagram TV動画には、以下の変更が適用されます。その日付より前に作成されたInstagram TV動画には、これらの変更が適用されません。</p>
+                                  <ul>
+                                    <li>
+                                      <div><code>media_product_type</code><a href="/docs/instagram-api/reference/ig-media/#fields">フィールド</a>から返されるのは、<code>IGTV</code>ではなく<code>FEED</code>になります</div>
+                                    </li>
+                                    <li>
+                                      <div><code>video_title</code><a href="/docs/instagram-api/reference/ig-media/#fields">フィールド</a>は返されません</div>
+                                    </li>
+                                    <li>
+                                      <div><a href="/docs/instagram-api/guides/webhooks">Instagram Webhooks</a>の<code>comments</code>フィールドと<code>mentions</code>フィールドがサポートされるようになりました</div>
+                                    </li>
+                                  </ul>
+                                  <p>2022年1月3日に、上記の変更がAPIの全バージョンおよびInstagram TVの全動画に、その作成日付には関係なく適用されます。つまり、2022年1月3日以降、APIの旧バージョンを使用するアプリはInstagram TV動画についてのクエリを実行できるようになります(読み取りサポートはv10.0で導入され、v10.0以上に限定されていました)。</p>
+                                  <p>v14.0以降、<code>video_title</code>フィールドはサポートされなくなり、そのフィールドがリクエストされた場合はAPIからエラーが出されます。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年6月8日</h2>
+                              <h4>「いいね！」数</h4>
+                              <p><em>v11.0以降に適用。2021年9月7日にすべてのバージョンに適用。</em></p>
+                              <p>別のエンドポイントやフィールド拡張を通して間接的に<a href="/docs/instagram-api/reference/ig-media">IGメディア</a>をクエリする場合、メディアの所有者が「いいね！」数を非表示にしていると、API応答で<a href="/docs/instagram-api/reference/ig-media#fields"><code>like_count</code></a>フィールドが省略されます。IGメディアを直接クエリする場合(そのIGメディアの所有者のみ実行可能)、「いいね！」数が非表示になっていても、実際の「いいね！」数が返されます。</p><br>
+                              <h4>時間ベースのページ割り</h4>
+                              <p><em>v11.0以降に適用</em>。</p>
+                              <p><a href="/docs/instagram-api/reference/ig-media/#query-string-parameters"><code>since</code></a>と<a href="/docs/instagram-api/reference/ig-media/#query-string-parameters"><code>until</code></a>のパラメーターが<a href="/docs/instagram-api/reference/ig-media/#reading"><code>GET /{ig-user-id}/media</code></a>エンドポイントに追加され、<a href="/docs/graph-api/using-graph-api#time">時間ベースのページネーション</a>がサポートされます。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年5月26日</h2>
+                              <div><span>
+                                  <p>IGメディアについてのクエリを別のエンドポイント経由で間接的に実行する場合、アプリユーザーがそのメディアを<a href="/docs/instagram-api/overview#authorization">所有</a>しておらず、メディアの所有者がそのメディアのいいねカウントを<a href="https://www.facebook.com/help/instagram/113355287252104">非表示</a>にしている場合、<a href="/docs/instagram-api/reference/ig-media#fields"></a>フィールドは<code>0</code>を返すようになりました。IGメディアの直接クエリは、そのIGメディアの所有者だけが実行でき、実行した場合は、所有者がそのメディアでいいねカウントを非表示にしている場合であっても、実際のいいねカウントが返されます。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年5月4日</h2>
+                              <div><span>
+                                  <p>IGユーザーに関する<a href="/docs/instagram-api/reference/ig-user/insights#metrics-and-periods"><code>online_followers</code></a>指標の計算方法に若干の変更が加えられました。</p>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年4月14日</h2>
+                              <div><span>
+                                  <p>日本のユーザーによるストーリーズ<a href="/docs/instagram-api/reference/ig-media/insights#metrics">IGメディア</a>のインタラクションが、一部の<code>replies</code>指標の計算に含まれなくなりました:</p>
+                                  <ul>
+                                    <li>
+                                      <div>日本のユーザーが作成したストーリーズについては、<code>replies</code>指標が値<code>0</code>を返すようになります。</div>
+                                    </li>
+                                    <li>
+                                      <div>日本以外のユーザーが作成したストーリーズについては、<code>replies</code>指標は返信の数を返しますが、日本のユーザーが行った返信はその計算に含まれなくなります。</div>
+                                    </li>
+                                  </ul>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年4月12日</h2>
+                              <p>ストーリーIGメディアのリーチ<a href="/docs/instagram-api/reference/ig-media/insights#metrics">指標</a>に関するマイナーな不具合を修正しました。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年4月9日</h2>
+                              <div><span>
+                                  <ul>
+                                    <li>
+                                      <div><a href="/docs/instagram-api/reference/ig-container">IGコンテナ</a>の<code>error_code</code>フィールドの値が<code>ERROR</code>である場合、このコンテナの<code>status</code>フィールドで<a href="/docs/instagram-api/reference/error-codes">エラーのサブコード</a>が返されるようになりました。</div>
+                                    </li>
+                                    <li>
+                                      <div><a href="/docs/instagram-api/reference/ig-media/insights">IGメディアインサイト</a>の<code>video_views</code>指標がアルバムに対応し、従来の<code>0</code>ではなく、アルバム内のすべての動画の<code>video_views</code>の合計が返されるようになりました。</div>
+                                    </li>
+                                  </ul>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年3月16日</h2>
+                              <p>IGTVメディアが<a href="/blog/post/2021/03/15/igtv-media-mmetrics-instagram-graph-api/">v10.0以降でサポートされるようになりました</a>。これは、コンテンツ公開とWebhooksに使用されているエンドポイントを除くすべてのエンドポイントに適用されます。この変更をサポートするために、新しい<code>media_product_type</code>と<code>video_title</code>フィールドが<a href="/docs/instagram-api/reference/ig-media">IGメディア</a>ノードに追加されています。APIを介してIGTVメディアにアクセスできるようにするには、公開する(<strong>[プレビューを投稿する]</strong>または<strong>[プレビューをフィードにシェアする]</strong>を有効にする)時点で、IGTVメディアがInstagramにシェアされている必要があります。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2021年1月26日</h2>
+                              <p>コンテンツ公開はベータ版が終了し、すべての開発者がInstagramプロアカウントでメディアを公開できるようになりました。使用法について詳しくは、<a href="/docs/instagram-api/guides/content-publishing">コンテンツ公開</a>ガイドを参照してください。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2020年12月2日</h2>
+                              <p>欧州連合の<a href="https://l.facebook.com/l.php" rel="nofollow" data-lynx-mode="hover">ePrivacy指令</a>に従って、2020年12月1日以降、欧州経済地域(EEA)内のユーザーによるメッセージ関連のストーリーズ<a href="/docs/instagram-api/reference/ig-media">IGメディア</a>インタラクションは、一部の指標計算に含まれなくなります。</p>
+                              <ul>
+                                <li>
+                                  <div>EEA内のユーザーが作成したストーリーズの場合、<a href="/docs/instagram-api/reference/ig-media/insights#metrics"><code>replies</code></a>指標は<code>0</code>値を返すようになります。</div>
+                                </li>
+                                <li>
+                                  <div>EEA外のユーザーが作成したストーリーについては、<a href="/docs/instagram-api/reference/ig-media/insights#metrics"><code>replies</code></a>指標は返信の数を返しますが、EEA内のユーザーが作成した返信はその計算に含まれません。</div>
+                                </li>
+                              </ul>
+                              <p>この変更はすべてのバージョンに適用されます。</p>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2020年11月10日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>IGユーザーのインサイト</strong> — <a href="/docs/instagram-api/reference/ig-user/insights"><code>follower_count</code></a>値は、Instagramアプリで表示される対応する値により近いものになりました。さらに、<a href="/docs/instagram-api/reference/ig-user/insights"><code>follower_count</code></a>から返されるデータは、最大2年ではなく最大30日のデータになりました。この変更はv9.0以降に適用され、2021年5月9日には他のすべてのバージョンにも適用される予定です。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2020年5月5日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>ハッシュタグ検索</strong> — <em>この変更はv7.0以降に適用されます</em> — <a href="/docs/instagram-api/reference/ig-hashtag/top-media#reading"><code>GET /{ig-hashtag-id}/top_media</code></a>および<a href="/docs/instagram-api/reference/ig-hashtag/recent-media#reading"><code>GET /{ig-hashtag-id}/recent_media</code></a><a href="/docs/instagram-api/guides/hashtag-search">ハッシュタグ検索</a>のクエリで返される<a href="/docs/instagram-api/reference/ig-media/">IGメディア</a>で、<code>timestamp</code>フィールドをリクエストできるようになりました。例: <code>GET /{ig-hashtag-id}/top_media?fields=timestamp</code></div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2019年12月3日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>インサイト</strong> — APIの動作をInstagramアプリAPIの動作と合わせるため、<a href="/docs/instagram-api/reference/ig-user/">IGユーザー</a>のインサイトは100人以上のフォロワーを持つIGユーザーにのみ利用できるようになりました。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2019年8月13日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>ビジネスディスカバリー</strong> — <a href="/docs/instagram-api/reference/ig-user/business_discovery">ビジネスディスカバリーAPI</a>を使って、他のInstagramクリエイターアカウントに関するデータを取得できるようになりました。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2019年5月22日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>Instagramクリエイターアカウント</strong> — APIは<a href="https://l.facebook.com/l.php" rel="nofollow" data-lynx-mode="hover">Instagramクリエイターアカウント</a>をサポートするようになりました。ただし、次の2点を例外とします。(1) Instagramクリエイターでは、<a href="/docs/instagram-api/guides/content-publishing">コンテンツ公開API</a>を使用できません。(2) クリエイターでは<a href="/docs/instagram-api/guides/business-discovery">ビジネスディスカバリーAPI</a>を使用できますが、ターゲットに設定できるのはビジネスのみです。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2019年5月9日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>Webhooks</strong> — <code>story_insights</code>フィールドは、<code>instagram_manage_comments</code>ではなく<code>instagram_manage_insights</code>アクセス許可を必要とするようになりました。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年10月31日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>ハッシュタグ検索API</strong> — 新しい<a href="/docs/instagram-api/guides/hashtag-search">ハッシュタグ検索API</a>を使って、特定のハッシュタグでタグ付けされたメディアを検索できるようになりました。<code>#spooky</code>!</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年10月23日</h2>
+                              <ul>
+                                <li>
+                                  <div><code>/{ig-media-id}/comments</code>エッジ — APIバージョン3.1以前を使って<code>GET</code>リクエストを発行すると、時系列で結果が返されるようになります。バージョン3.2以降を使用して発行されたリクエストの結果は時系列の逆順で返されます。 </div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年6月7日</h2>
+                              <ul>
+                                <li>
+                                  <div><code>/{ig-media-id}</code>ノード — フィールド拡張機能を使って、メディアオブジェクトの<code>permalink</code>フィールドを取得できるようになりました。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年5月1日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>ビジネス認証</strong> — Instagram Graph APIを使用するには、すべてのアプリが<a href="/docs/apps/review">ビジネス認証</a>を受ける必要があります。ビジネス認証はアプリレビュープロセスの一部で、すべてのInstagramグラフAPIエンドポイントにおいて必須となりました。2018年5月1日より前にレビューを受けたアプリは、2018年8月1日までに再度レビューを受ける必要があります。そうしないと、このAPIにアクセスできなくなります。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年4月24日</h2>
+                              <ul>
+                                <li>
+                                  <div><code>/{ig-comment-id}</code>ノード: <span>
+                                      <ul>
+                                        <li>
+                                          <div>新しい<code>username</code>フィールドが追加されました。</div>
+                                        </li>
+                                        <li>
+                                          <div><code>GET</code>リクエストでは、リクエストを行ったユーザーがコメントを所有していない限り、<code>user</code>フィールドは応答に含まれなくなります。代わりにすべてのコメント投稿者に対して<code>username</code>が返されます。これは、メンションAPIなど、その他のAPIで作成されたコメントに対するクエリにも適用されます。</div>
+                                        </li>
+                                      </ul>
+                                    </span></div>
+                                </li>
+                                <li>
+                                  <div><code>/{ig-media-id}</code>ノード: <span>
+                                      <ul>
+                                        <li>
+                                          <div>新しい<code>username</code>フィールドが追加されました。</div>
+                                        </li>
+                                        <li>
+                                          <div><code>GET</code>リクエストでは、リクエストを行ったユーザーがメディアオブジェクトを所有していない限り、<code>owner</code>フィールドは応答に含まれなくなります。代わりにすべてのコメント投稿者に対して<code>username</code>が返されます。これは、メンションAPIなど、その他のAPIで作成されたメディアオブジェクトに対するクエリにも適用されます。</div>
+                                        </li>
+                                      </ul>
+                                    </span></div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年4月23日</h2>
+                              <ul>
+                                <li>
+                                  <div><span>
+                                      <p><strong>インサイトAPI</strong> — インサイトに、API、Facebook広告インターフェイス、Instagramの宣伝機能を使って生成された広告アクティビティが含まれるようになります。これは次の指標に影響を与えます。</p>
+                                      <ul>
+                                        <li>
+                                          <div><code>impressions</code></div>
+                                        </li>
+                                        <li>
+                                          <div><code>reach</code></div>
+                                        </li>
+                                      </ul>
+                                    </span></div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年3月13日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>コンテンツ公開API</strong> — ベータ版を利用しているパートナーは、写真を公開する際に、<code>/{ig-user-id}/media</code>エッジを使って<a href="/docs/instagram-api/guides/content-publishing#publish-with-locations">場所</a>や公開Instagram<a href="/docs/instagram-api/guides/content-publishing#publish-with-tagged-users">ユーザー</a>をタグ付けできるようになりました。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年3月8日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>公開フィールド</strong> — <code>/{ig-media-id}</code>ノードの<code>timestamp</code>フィールドは公開フィールドになり、フィールド拡張機能を使って返せるようになりました。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年2月22日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>公開フィールド</strong> — <code>/{ig-user-id}</code>、<code>/{ig-comment-id}</code>、<code>/{ig-media-id}</code>の各ノードは、フィールド拡張機能を使ってエッジを介してアクセスする場合に、すべての公開フィールドを返すようになります。どのフィールドが公開フィールドかを確認するには、各ノードのドキュメントを参照してください。</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          <div>
+                            <div>
+                              <h2>2018年2月8日</h2>
+                              <ul>
+                                <li>
+                                  <div><strong>コンテンツ公開API</strong> — ベータ版を利用しているパートナーは、<code>/{ig-user-id}/media</code> エッジを介して写真を公開する際に、ハッシュタグを含められるようになりました。<code>#crazywildebeest</code>!</div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </span>
+                      <div>
+                        <div>
+                          <fb:like href="https://developers.facebook.com/docs/instagram-api/changelog/"></fb:like>
+                        </div>
+                      </div>
+                      <div></div><noscript><img></noscript><noscript><img></noscript><noscript><img></noscript>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div></div>
+    </div>
+  </div>
+  <div></div>
+  <div></div>
+</body>
