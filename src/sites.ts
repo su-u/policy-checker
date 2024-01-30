@@ -12,6 +12,14 @@ export const SITES = [
     name: '【Twitter】Twitter開発者ポリシーおよび契約',
   },
   {
+    url: 'https://developer.twitter.com/ja/developer-terms/display-requirements',
+    name: '【Twitter】表示要件: ツイート',
+  },
+  {
+    url: 'https://developer.twitter.com/en/developer-terms/reply-requirements',
+    name: '【Twitter】Display requirements: Replies',
+  },
+  {
     url: 'https://developer.twitter.com/ja/developer-terms/more-on-restricted-use-cases',
     name: '【Twitter】利用目的の制限',
   },
@@ -46,6 +54,10 @@ export const SITES = [
   {
     url: 'https://help.twitter.com/ja/rules-and-policies/twitter-rules',
     name: '【Twitter】Twitterルール',
+  },
+  {
+    url: 'https://help.twitter.com/ja/rules-and-policies/x-moments-guidelines-and-principles',
+    name: '【Twitter】Xモーメントのガイドラインと方針',
   },
   {
     url: 'https://help.twitter.com/en/rules-and-policies/twitter-rules',
