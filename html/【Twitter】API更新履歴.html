@@ -7,7 +7,7 @@
           --primary-light: 176 176 176;
           --primary-dark: 14 14 14;
           --background-light: 255 255 255;
-          --background-dark: 5 5 5;
+          --background-dark: 12 12 14;
           --gray-50: 243 243 243;
           --gray-100: 238 238 238;
           --gray-200: 222 222 222;
@@ -63,6 +63,19 @@
         td[data-label="Free Limit"] strong {
           margin-bottom: 8px;
           display: block;
+        }
+
+        .text-hero {
+          color: white;
+          font-weight: 600;
+          font-size: 3rem;
+          margin: 0;
+        }
+
+        @media (max-width: 767px) {
+          .text-hero {
+            font-size: 2rem;
+          }
         }
 
       </style>
@@ -996,9 +1009,6 @@
                 <div>
                   <footer>
                     <div><a href="https://x.com/xdevelopers"><span>x</span><svg></svg></a><a href="https://github.com/xdevplatform"><span>github</span><svg></svg></a></div>
-                    <div>
-                      <div><a href="https://mintlify.com/preview-request" rel="noreferrer">Powered by Mintlify</a></div>
-                    </div>
                   </footer>
                 </div>
               </div>
