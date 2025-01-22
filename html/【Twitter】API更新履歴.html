@@ -131,7 +131,7 @@
                 </div>
               </div>
               <div>
-                <div><a href="/home">Home<div></div></a><a href="/resources/platform-overview">Get started<div></div></a><a href="/x-api/introduction">X API<div></div></a><a href="/x-ads-api/introduction">X Ads API<div></div></a><a href="/tutorials/explore-a-users-posts">Tutorials<div></div></a><a href="/use-cases/build-for-business">Use Cases<div></div></a><a href="/updates/changelog">Changelog<div></div></a></div>
+                <div></div>
               </div>
             </div>
           </div>
@@ -151,16 +151,6 @@
                   <li><a href="https://github.com/xdevplatform" rel="noreferrer">
                       <div><svg></svg></div>GitHub
                     </a></li>
-                  <div>
-                    <h5>Changelog</h5>
-                    <ul>
-                      <li><a href="/updates/changelog">
-                          <div>
-                            <div>Overview</div>
-                          </div>
-                        </a></li>
-                    </ul>
-                  </div>
                 </div>
               </div>
             </div>
@@ -190,7 +180,7 @@
                   <div>
                     <h3>January 16, 2025</h3>
                     <p><code>X API</code></p>
-                    <p>Today, we launched new X API v2 <a href="/x-api/media/introduction">Media Upload endpoints</a>.</p>
+                    <p>Today, we launched new X API v2 <a href="/x-api/media/introduction">Media Upload endpoints</a>. Learn more <a href="https://devcommunity.x.com/t/announcing-media-upload-endpoints-in-the-x-api-v2/234175/3" rel="noreferrer">here</a>.</p>
                     <h3>January 13, 2025</h3>
                     <p><code>Documentation</code></p>
                     <p>Today, we launched our new X Developer Platform documentation site, <a href="https://docs.x.com" rel="noreferrer">https://docs.x.com</a>.</p>
@@ -334,17 +324,27 @@
                       <li>
                         <p>We are removing language in our Developer Policy that restricted how you build with X’s core features, and limited the number of users you can support through your app.</p>
                         <ul>
-                          <li>We are opening up our platform to encourage you to build tools and products that make X better, healthier, and extend the public conversation. <a href="https://developer.x.com/en/docs/twitter-api/what-to-build" rel="noreferrer">See a list of solutions we’d love to see you build</a>.&nbsp;</li>
-                          <li>Specifically, we’ve removed terms that restricted replication of the X experience, including X’s core features as well as terms that required permission to have high numbers of user tokens.&nbsp;</li>
-                          <li>We know that building solutions that help people on X often means a developer has to build (or replicate) some of the things that are available on X. These changes to our Developer Policy are intended to drive clarity for the developer ecosystem and provide an open API platform that makes it easier for developers to build, innovate, and make an impact on the public conversation.</li>
+                          <li>
+                            <p>We are opening up our platform to encourage you to build tools and products that make X better, healthier, and extend the public conversation. <a href="https://developer.x.com/en/docs/twitter-api/what-to-build" rel="noreferrer">See a list of solutions we’d love to see you build</a>.&nbsp;</p>
+                          </li>
+                          <li>
+                            <p>Specifically, we’ve removed terms that restricted replication of the X experience, including X’s core features as well as terms that required permission to have high numbers of user tokens.&nbsp;</p>
+                          </li>
+                          <li>
+                            <p>We know that building solutions that help people on X often means a developer has to build (or replicate) some of the things that are available on X. These changes to our Developer Policy are intended to drive clarity for the developer ecosystem and provide an open API platform that makes it easier for developers to build, innovate, and make an impact on the public conversation.</p>
+                          </li>
                         </ul>
                       </li>
                     </ul>
                     <p>We go into a lot more detail on this launch and the X API launches that led to this moment in our <a href="https://devcommunity.x.com/t/ushering-in-a-new-era-for-the-twitter-developer-platform-with-the-twitter-api-v2/162087" rel="noreferrer">forum post</a>.&nbsp;</p>
                     <p>In addition to exploring earlier changelog entries, we’ve put together some key resources that you can review to understand what all has released to X API v2 to-date:</p>
                     <ul>
-                      <li><a href="/x-api/migrate/x-api-endpoint-map">X API endpoint map</a></li>
-                      <li><a href="/x-api/getting-started/about-x-api">About the X API</a>&nbsp;</li>
+                      <li>
+                        <p><a href="/x-api/migrate/x-api-endpoint-map">X API endpoint map</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/getting-started/about-x-api">About the X API</a>&nbsp;</p>
+                      </li>
                     </ul>
                     <h3>November 15th, 2021</h3>
                     <p><code>X API v2: Early Access</code></p>
@@ -468,11 +468,21 @@
                     <p>Today, we are introducing the new <a href="/resources/fundamentals/projects">Academic Research product track</a> to <a href="/x-api/introduction">X API v2</a>. This update introduces a new application process for Academic Researchers that will provide those that are approved with an Academic Research <a href="/resources/fundamentals/projects">Project</a> that will unlock greater access and advanced functionality.</p>
                     <p>With the new Academic Research product track, you will be able to access the following:</p>
                     <ul>
-                      <li>The new X API v2 <a href="/x-api/posts/full-archive-search">full-archive search endpoint</a>, which is only available to the Academic Research product track at this time.&nbsp;</li>
-                      <li>An increased <a href="/x-api/fundamentals/post-cap">post cap</a> of 10 million, up from the 500,000 that is available to the <a href="/resources/fundamentals/projects">Standard product track</a> at the Basic <a href="https://developer.x.com/en/products/x-api/early-access/guide#na_2" rel="noreferrer">access level</a>.&nbsp;</li>
-                      <li>New filter operators available to <a href="/x-api/posts/recent-search">recent search</a>, <a href="/x-api/posts/full-archive-search">full-archive search</a>, and <a href="/x-api/posts/filtered-stream">filtered stream</a>, including <code>$</code> (aka cashtag), <code>bio</code> (only available via filtered stream), <code>bio_name</code> (only available via filtered stream), <code>bio_location</code> (only available via filtered stream), <code>place</code>, <code>place_country</code>, <code>point_radius</code>, <code>bounding_box</code>, <code>-is:nullcast</code>, <code>has:cashtags</code> and <code>has:geo</code>.</li>
-                      <li>An increased rule limit for filtered stream of 1,000 concurrent rules, up from the 25 that is available to the Standard product track at the Basic access level.&nbsp;</li>
-                      <li>An increased query and rule character limit of 1,024 characters long, up from the 512 character limit that is available to the Standard product tack at the Basic access level</li>
+                      <li>
+                        <p>The new X API v2 <a href="/x-api/posts/full-archive-search">full-archive search endpoint</a>, which is only available to the Academic Research product track at this time.&nbsp;</p>
+                      </li>
+                      <li>
+                        <p>An increased <a href="/x-api/fundamentals/post-cap">post cap</a> of 10 million, up from the 500,000 that is available to the <a href="/resources/fundamentals/projects">Standard product track</a> at the Basic <a href="https://developer.x.com/en/products/x-api/early-access/guide#na_2" rel="noreferrer">access level</a>.&nbsp;</p>
+                      </li>
+                      <li>
+                        <p>New filter operators available to <a href="/x-api/posts/recent-search">recent search</a>, <a href="/x-api/posts/full-archive-search">full-archive search</a>, and <a href="/x-api/posts/filtered-stream">filtered stream</a>, including <code>$</code> (aka cashtag), <code>bio</code> (only available via filtered stream), <code>bio_name</code> (only available via filtered stream), <code>bio_location</code> (only available via filtered stream), <code>place</code>, <code>place_country</code>, <code>point_radius</code>, <code>bounding_box</code>, <code>-is:nullcast</code>, <code>has:cashtags</code> and <code>has:geo</code>.</p>
+                      </li>
+                      <li>
+                        <p>An increased rule limit for filtered stream of 1,000 concurrent rules, up from the 25 that is available to the Standard product track at the Basic access level.&nbsp;</p>
+                      </li>
+                      <li>
+                        <p>An increased query and rule character limit of 1,024 characters long, up from the 512 character limit that is available to the Standard product tack at the Basic access level</p>
+                      </li>
                     </ul>
                     <p>To learn more about this launch, please visit our <a href="https://devcommunity.x.com/t/introducing-the-new-academic-research-product-track/148632" rel="noreferrer">forum announcement</a>.</p>
                     <h3>December 18th, 2020</h3>
@@ -494,8 +504,12 @@
                     <p>Retired Labs v2 recent search and hide replies endpoints</p>
                     <p>We have retired the following endpoints. If you were using the Labs versions of these endpoints, you can use the linked migration guides to update your integration to start using the new X API v2 versions:</p>
                     <ul>
-                      <li><a href="/x-api/posts/search/migrate/overview">Recent search v2</a></li>
-                      <li><a href="/x-api/posts/hide-replies/migrate">Hide replies v2</a></li>
+                      <li>
+                        <p><a href="/x-api/posts/search/migrate/overview">Recent search v2</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/posts/hide-replies/migrate">Hide replies v2</a></p>
+                      </li>
                     </ul>
                     <p>We also have additional details about migration to the new X API v2 via our <a href="/x-api/migrate/overview">migration hub</a>.&nbsp;</p>
                     <p>If you have any questions, please reach out to our <a href="https://devcommunity.x.com/c/labs/57" rel="noreferrer">Labs forum category</a>.&nbsp;</p>
@@ -505,9 +519,15 @@
                     <p>On August 12th, 2020, we launched the new X API v2: Early access. With this release, we graduated several endpoints to X API v2 from the Labs program, and announced that the Labs version of the endpoints would remain in a deprecated state for 60 days before retiring them.</p>
                     <p>Today marks 60 days since the launch, meaning that we have retired the following endpoints. If you are using the Labs versions of these endpoints, you can use the linked migration guides to update your integration to start using the new X API v2 versions:</p>
                     <ul>
-                      <li><a href="https://developer.x.com/en/docs/labs/migrate" rel="noreferrer">post metrics v1</a></li>
-                      <li><a href="/x-api/posts/filtered-stream#comparing-x-apis-filtered-stream-endpoints">Filtered stream v1</a></li>
-                      <li><a href="https://developer.x.com/en/docs/x-api/posts/sampled-stream/migrate" rel="noreferrer">Sampled stream v1</a></li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/labs/migrate" rel="noreferrer">post metrics v1</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/posts/filtered-stream#comparing-x-apis-filtered-stream-endpoints">Filtered stream v1</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/posts/sampled-stream/migrate" rel="noreferrer">Sampled stream v1</a></p>
+                      </li>
                     </ul>
                     <p>We also have additional details about migration to the new X API v2 via our <a href="/x-api/migrate/overview">migration hub</a>.&nbsp;</p>
                     <p>If you have any questions, please reach out to our <a href="https://devcommunity.x.com/c/labs/57" rel="noreferrer">Labs forum category</a>.&nbsp;</p>
@@ -527,11 +547,21 @@
                     <p>Today we announced <a href="https://blog.x.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html" rel="noreferrer">Early Access to the first endpoints of the new X API</a>!</p>
                     <p>The new X API features a new API foundation which will allow us to deliver new functionality faster; an updated data format and new functionality that gives you more control over which fields you receive; new post, user, and media fields; and a set of updated endpoints that enable you to listen to and analyze posts, including the following:</p>
                     <ul>
-                      <li><a href="/x-api/posts/post-lookup-by-post-ids">post lookup</a></li>
-                      <li><a href="/x-api/users/user-lookup-by-id">User lookup</a></li>
-                      <li><a href="/x-api/posts/recent-search">Recent search</a></li>
-                      <li><a href="/x-api/posts/filtered-stream">Filtered stream</a></li>
-                      <li><a href="/x-api/posts/sample-stream">Sampled stream</a></li>
+                      <li>
+                        <p><a href="/x-api/posts/post-lookup-by-post-ids">post lookup</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/users/user-lookup-by-id">User lookup</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/posts/recent-search">Recent search</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/posts/filtered-stream">Filtered stream</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/posts/sample-stream">Sampled stream</a></p>
+                      </li>
                     </ul>
                     <p>You can find a full list of the new functionality available, and find migration resources on our [X API v2: Early Access docs page]<a href="https://developer.x.com/en/docs/x-api/early-access" rel="noreferrer">https://developer.x.com/en/docs/x-api/early-access</a>).</p>
                     <p>Learn more about what we have planned in our “[Guide to the future of the X API]<a href="https://developer.x.com/en/docs/x-api/early-access)%E2%80%9D" rel="noreferrer">https://developer.x.com/en/docs/x-api/early-access)”</a>.</p>
@@ -540,9 +570,15 @@
                     <p>We are deprecating certain Labs endpoints due to the launch of their X API v2 replacements in this release.</p>
                     <p>The following Labs v1 endpoints will be retired 60 days from today’s release:</p>
                     <ul>
-                      <li>post metrics v1</li>
-                      <li>Filtered stream v1</li>
-                      <li>Sampled stream v1</li>
+                      <li>
+                        <p>post metrics v1</p>
+                      </li>
+                      <li>
+                        <p>Filtered stream v1</p>
+                      </li>
+                      <li>
+                        <p>Sampled stream v1</p>
+                      </li>
                     </ul>
                     <p>The following Labs v2 endpoint will be retired 90 days from today’s release:</p>
                     <ul>
@@ -612,16 +648,30 @@
                     <p>Today, we are bringing our posts and Users, Recent Search and Hide Replies endpoints to v2 of Labs.&nbsp;We are deprecating Labs v1 endpoints and will fully retire them 90 days after this initial release. We will also keep our v1 documentation available for this duration. You can provide us feedback on this versioning strategy via our <a href="https://twitterdevfeedback.uservoice.com/" rel="noreferrer">feedback channel</a>.&nbsp;</p>
                     <p>We’re releasing the following changes to posts and Users:</p>
                     <ul>
-                      <li>Introduce&nbsp;<a href="/x-api/fundamentals/fields">fields</a>&nbsp;as a query parameter</li>
-                      <li>Remove&nbsp;<a href="https://developer.x.com/en/docs/labs#payload" rel="noreferrer">formats</a>&nbsp;as a query parameter</li>
-                      <li>Add path variable for single ID&nbsp;<a href="https://developer.x.com/en/docs/labs/overview/versioning/migration-guide#id-lookup-path" rel="noreferrer">lookup</a>&nbsp;in posts and Users</li>
-                      <li>Adjusting the path and query parameters for single and multi-username&nbsp;<a href="/x-api/migrate/overview#username-lookup-path">lookup</a>&nbsp;in GET /users</li>
-                      <li>Change field name&nbsp;<code>stats</code>&nbsp;to&nbsp;<code>public_metrics</code></li>
+                      <li>
+                        <p>Introduce&nbsp;<a href="/x-api/fundamentals/fields">fields</a>&nbsp;as a query parameter</p>
+                      </li>
+                      <li>
+                        <p>Remove&nbsp;<a href="https://developer.x.com/en/docs/labs#payload" rel="noreferrer">formats</a>&nbsp;as a query parameter</p>
+                      </li>
+                      <li>
+                        <p>Add path variable for single ID&nbsp;<a href="https://developer.x.com/en/docs/labs/overview/versioning/migration-guide#id-lookup-path" rel="noreferrer">lookup</a>&nbsp;in posts and Users</p>
+                      </li>
+                      <li>
+                        <p>Adjusting the path and query parameters for single and multi-username&nbsp;<a href="/x-api/migrate/overview#username-lookup-path">lookup</a>&nbsp;in GET /users</p>
+                      </li>
+                      <li>
+                        <p>Change field name&nbsp;<code>stats</code>&nbsp;to&nbsp;<code>public_metrics</code></p>
+                      </li>
                     </ul>
                     <p>Other changes include:</p>
                     <ul>
-                      <li>Remove the&nbsp;<code>most_recent_tweet_id</code>&nbsp;expansion in Users</li>
-                      <li>Remove HTML tags from the&nbsp;<code>source</code>&nbsp;field in posts to make that field easier to parse</li>
+                      <li>
+                        <p>Remove the&nbsp;<code>most_recent_tweet_id</code>&nbsp;expansion in Users</p>
+                      </li>
+                      <li>
+                        <p>Remove HTML tags from the&nbsp;<code>source</code>&nbsp;field in posts to make that field easier to parse</p>
+                      </li>
                     </ul>
                     <p>The core search, pagination and other functionality of Recent Search will stay the same.</p>
                     <p>We have put together some&nbsp;<a href="/x-api/migrate/overview">migration materials</a>&nbsp;for when you update from v1 to v2.</p>
@@ -683,13 +733,27 @@
                     <p>You can now retrieve engagement data for any post or list of posts from owned/authorized accounts. The posts you query must be no older than 30 days and cannot be reposts.</p>
                     <p><a href="https://developer.x.com/en/docs/labs/tweet-metrics/overview.html" rel="noreferrer">GET /tweets/metrics/private</a> supports the following metrics:</p>
                     <ul>
-                      <li><code>impressions</code></li>
-                      <li><code>reposts</code></li>
-                      <li><code>quotes</code></li>
-                      <li><code>likes</code></li>
-                      <li><code>replies</code></li>
-                      <li><code>video views</code></li>
-                      <li><code>video view quartiles</code> (where the requester is also the author of the media)</li>
+                      <li>
+                        <p><code>impressions</code></p>
+                      </li>
+                      <li>
+                        <p><code>reposts</code></p>
+                      </li>
+                      <li>
+                        <p><code>quotes</code></p>
+                      </li>
+                      <li>
+                        <p><code>likes</code></p>
+                      </li>
+                      <li>
+                        <p><code>replies</code></p>
+                      </li>
+                      <li>
+                        <p><code>video views</code></p>
+                      </li>
+                      <li>
+                        <p><code>video view quartiles</code> (where the requester is also the author of the media)</p>
+                      </li>
                     </ul>
                     <p>Learn more about this launch via our <a href="https://devcommunity.x.com/t/new-twitter-developer-labs-release-metrics-endpoint/129122" rel="noreferrer">forum announcement</a>.</p>
                     <h3>August 15th, 2019</h3>
@@ -731,10 +795,18 @@
                     <p>The first two endpoints are now available via the Labs portal. Make sure you have an approved developer account and have applied for Labs access to get started with these endpoints.</p>
                     <p><a href="https://developer.x.com/content/developer-twitter/en/docs/labs/overview/whats-new" rel="noreferrer">Key differences</a> from equivalent v1.1 functionality include:</p>
                     <ul>
-                      <li>Single endpoint for single object “show” function and batch “lookups”</li>
-                      <li>[Expansion parameters]) support the inclusion of additional objects as part of one request (e.g. mentioned users, referenced posts, etc.)</li>
-                      <li>[Format parameters]) support different data projections with more or less verbose payloads</li>
-                      <li>Rate limiting is at the app level, regardless of auth method (user context or bearer token)</li>
+                      <li>
+                        <p>Single endpoint for single object “show” function and batch “lookups”</p>
+                      </li>
+                      <li>
+                        <p>[Expansion parameters]) support the inclusion of additional objects as part of one request (e.g. mentioned users, referenced posts, etc.)</p>
+                      </li>
+                      <li>
+                        <p>[Format parameters]) support different data projections with more or less verbose payloads</p>
+                      </li>
+                      <li>
+                        <p>Rate limiting is at the app level, regardless of auth method (user context or bearer token)</p>
+                      </li>
                     </ul>
                     <p>Learn more about this launch via our <a href="https://devcommunity.x.com/t/twitter-developer-labs-is-open-to-all-developers/126717" rel="noreferrer">forum announcement</a>.</p>
                     <h3>June 10th, 2019</h3>
@@ -778,8 +850,12 @@
                     <p>Today, we are announcing that advertisers and publishers are now able to add subtitle files (SRT) to their videos via ads.x.com, Media Studio and our publisher upload API. Subtitles will be viewable on auto-playing video (when no sound is available) on Android and Web. We will release the functionality for iOS in the coming weeks.&nbsp;</p>
                     <p>To read more about the new subtitles endpoints, please review their respective API reference pages:</p>
                     <ul>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/media/upload-media/api-reference/post-media-subtitles-create" rel="noreferrer">POST media/subtitles-create</a></li>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/media/upload-media/api-reference/post-media-subtitles-delete" rel="noreferrer">POST media/subtitles-delete</a></li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/media/upload-media/api-reference/post-media-subtitles-create" rel="noreferrer">POST media/subtitles-create</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/media/upload-media/api-reference/post-media-subtitles-delete" rel="noreferrer">POST media/subtitles-delete</a></p>
+                      </li>
                     </ul>
                     <h3>November 5th, 2018</h3>
                     <p><code>X API: Premium v1.1</code>&nbsp;&nbsp;&nbsp;&nbsp; <code>X API: Enterprise v1.1</code>&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -834,13 +910,27 @@
                     <p>The&nbsp;<a href="/x-api/enterprise-gnip-2.0/fundamentals/account-activity#migration-introduction">Account Activity API DM Beta</a>&nbsp;product was fully retired today.</p>
                     <p>The following services and endpoints will experience degraded service starting today:</p>
                     <ul>
-                      <li><a href="/x-api/enterprise-gnip-2.0/fundamentals/account-activity#migration-introduction">User Streams</a></li>
-                      <li><a href="/x-api/enterprise-gnip-2.0/fundamentals/account-activity#migration-introduction">Site Streams</a></li>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/direct-messages/sending-and-receiving/api-reference/list-events" rel="noreferrer">GET direct_messages</a></li>
-                      <li><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/get-sent-message" rel="noreferrer">GET direct_messages/sent</a></li>
-                      <li><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/get-message" rel="noreferrer">GET direct_messages/show</a></li>
-                      <li><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/new-message" rel="noreferrer">POST direct_messages/new</a></li>
-                      <li><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/delete-message" rel="noreferrer">POST direct_messages/destroy</a></li>
+                      <li>
+                        <p><a href="/x-api/enterprise-gnip-2.0/fundamentals/account-activity#migration-introduction">User Streams</a></p>
+                      </li>
+                      <li>
+                        <p><a href="/x-api/enterprise-gnip-2.0/fundamentals/account-activity#migration-introduction">Site Streams</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/direct-messages/sending-and-receiving/api-reference/list-events" rel="noreferrer">GET direct_messages</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/get-sent-message" rel="noreferrer">GET direct_messages/sent</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/get-message" rel="noreferrer">GET direct_messages/show</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/new-message" rel="noreferrer">POST direct_messages/new</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/content/developer-twitter/en/docs/direct-messages/sending-and-receiving/api-reference/delete-message" rel="noreferrer">POST direct_messages/destroy</a></p>
+                      </li>
                     </ul>
                     <p>User Streams and Site Streams will be fully retired on August 23rd.</p>
                     <p>The legacy Direct Messages endpoints will be fully retired on September 17th.</p>
@@ -851,11 +941,21 @@
                     <p>As of today, you will no longer be able to create new&nbsp;<a href="/resources/fundamentals/developer-apps">X apps</a>&nbsp;via&nbsp;<a href="https://apps.x.com/" rel="noreferrer">apps.x.com</a>. You will now be redirected to either your&nbsp;<a href="/resources/fundamentals/developer-portal">developer portal</a>&nbsp;account or, if you don’t have a developer portal account yet, to the page where&nbsp;<a href="https://developer.x.com/content/developer-twitter/en/apply-for-access" rel="noreferrer">you can apply</a>.</p>
                     <p>We also announced that we will be implementing new app-level rate limits to the following POST endpoints on September 10th, 2018.&nbsp;</p>
                     <ul>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/tweets/post-and-engage/api-reference/post-statuses-update" rel="noreferrer">POST statuses/update</a></li>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/tweets/post-and-engage/api-reference/post-statuses-retweet-id" rel="noreferrer">POST statuses/retweet:id</a></li>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/accounts-and-users/follow-search-get-users/api-reference/post-friendships-create" rel="noreferrer">POST friendships/create</a></li>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/tweets/post-and-engage/api-reference/post-favorites-create" rel="noreferrer">POST favorites/create</a></li>
-                      <li><a href="https://developer.x.com/en/docs/x-api/v1/direct-messages/sending-and-receiving/api-reference/new-event" rel="noreferrer">POST direct_messages/events/new</a></li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/tweets/post-and-engage/api-reference/post-statuses-update" rel="noreferrer">POST statuses/update</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/tweets/post-and-engage/api-reference/post-statuses-retweet-id" rel="noreferrer">POST statuses/retweet:id</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/accounts-and-users/follow-search-get-users/api-reference/post-friendships-create" rel="noreferrer">POST friendships/create</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/tweets/post-and-engage/api-reference/post-favorites-create" rel="noreferrer">POST favorites/create</a></p>
+                      </li>
+                      <li>
+                        <p><a href="https://developer.x.com/en/docs/x-api/v1/direct-messages/sending-and-receiving/api-reference/new-event" rel="noreferrer">POST direct_messages/events/new</a></p>
+                      </li>
                     </ul>
                     <p>Finally, we are introducing a new option for people to report suspected violations of our platform policies to you for review.</p>
                     <p>You can learn more about all of these updates via our&nbsp;<a href="https://cli.re/g32qKr" rel="noreferrer">blog post</a>. &nbsp;</p>
@@ -914,10 +1014,18 @@
                     <p>Launched the Premium APIs.</p>
                     <p>These new APIs build on the quality and stability of our enterprise data platform, and make it available more widely via a tiered pricing model. For the first time, you can start to search across 30 days of posts (instead of the limited 7&nbsp;days of data on the standard endpoint), and optionally, you can also access our premium enrichments for profile geo, URL expansion, and poll data. Here’s a taste of some of the new features:</p>
                     <ul>
-                      <li>More posts per request (Sandbox + Premium)</li>
-                      <li>A far more rich query language enabling more complex queries (Sandbox + Premium)</li>
-                      <li>A counts endpoint that returns time-series counts of posts (Premium)</li>
-                      <li>Metadata enrichments, such as expanded URLs and Profile Geo (Premium)</li>
+                      <li>
+                        <p>More posts per request (Sandbox + Premium)</p>
+                      </li>
+                      <li>
+                        <p>A far more rich query language enabling more complex queries (Sandbox + Premium)</p>
+                      </li>
+                      <li>
+                        <p>A counts endpoint that returns time-series counts of posts (Premium)</p>
+                      </li>
+                      <li>
+                        <p>Metadata enrichments, such as expanded URLs and Profile Geo (Premium)</p>
+                      </li>
                     </ul>
                     <p>Read more about this launch <a href="https://blog.x.com/developer/en_us/topics/tools/2017/introducing-twitter-premium-apis.html" rel="noreferrer">on our blog</a>. &nbsp;</p>
                     <h3>November 7th, 2017</h3>
@@ -977,8 +1085,12 @@
                     <p><code>X API: Enterprise v1.1</code>&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <p>Historical PowerTrack API &amp; Replay API</p>
                     <ul>
-                      <li>quote filtering is now supported</li>
-                      <li>Quoted posts are now fully rehydrated within HPT and Replay post payloads &nbsp;</li>
+                      <li>
+                        <p>quote filtering is now supported</p>
+                      </li>
+                      <li>
+                        <p>Quoted posts are now fully rehydrated within HPT and Replay post payloads &nbsp;</p>
+                      </li>
                     </ul>
                     <h3>January 17th, 2017</h3>
                     <p><code>X API: Enterprise v1.1</code>&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -987,13 +1099,27 @@
                     <p><code>X API: Enterprise v1.1</code>&nbsp;&nbsp;&nbsp;&nbsp;</p>
                     <p>Full-Archive Search API (FAS):</p>
                     <ul>
-                      <li>Added support for additional geo operators:</li>
-                      <li>place:</li>
-                      <li>place_country:</li>
-                      <li>has:profile_geo:</li>
-                      <li>profile_country:</li>
-                      <li>profile_region:</li>
-                      <li>profile_locality: &nbsp;</li>
+                      <li>
+                        <p>Added support for additional geo operators:</p>
+                      </li>
+                      <li>
+                        <p>place:</p>
+                      </li>
+                      <li>
+                        <p>place_country:</p>
+                      </li>
+                      <li>
+                        <p>has:profile_geo:</p>
+                      </li>
+                      <li>
+                        <p>profile_country:</p>
+                      </li>
+                      <li>
+                        <p>profile_region:</p>
+                      </li>
+                      <li>
+                        <p>profile_locality: &nbsp;</p>
+                      </li>
                     </ul>
                     <h3>December 5th, 2016</h3>
                     <p><code>X API: Enterprise v1.1</code>&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -1002,13 +1128,27 @@
                     <p><code>X API: Enterprise v1.1&nbsp;&nbsp;&nbsp;&nbsp;</code></p>
                     <p>30-Day Search API:</p>
                     <ul>
-                      <li>Added support for additional geo operators:</li>
-                      <li>place:</li>
-                      <li>place_country:</li>
-                      <li>has:profile_geo:</li>
-                      <li>profile_country:</li>
-                      <li>profile_region:</li>
-                      <li>profile_locality:</li>
+                      <li>
+                        <p>Added support for additional geo operators:</p>
+                      </li>
+                      <li>
+                        <p>place:</p>
+                      </li>
+                      <li>
+                        <p>place_country:</p>
+                      </li>
+                      <li>
+                        <p>has:profile_geo:</p>
+                      </li>
+                      <li>
+                        <p>profile_country:</p>
+                      </li>
+                      <li>
+                        <p>profile_region:</p>
+                      </li>
+                      <li>
+                        <p>profile_locality:</p>
+                      </li>
                     </ul>
                   </div>
                 </div>
