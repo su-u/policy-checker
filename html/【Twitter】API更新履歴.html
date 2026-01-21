@@ -61,9 +61,9 @@
                       <nav>
                         <ul>
                           <li><a href="https://developer.x.com/en/support">Support</a></li>
-                          <li><a href="https://developer.x.com/en/portal/petition/essential/basic-info">Developer portal</a></li>
+                          <li><a href="https://developer.x.com/en/portal/petition/essential/basic-info">Developer Console</a></li>
                           <li><a href="https://developer.x.com/en/portal/petition/essential/basic-info"><span></span>
-                              <div><span>Developer portal</span><svg>
+                              <div><span>Developer Console</span><svg>
                                   <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
                                 </svg></div>
                             </a></li>
@@ -104,7 +104,7 @@
                 <div>
                   <ul>
                     <li><a href="https://developer.x.com/en/portal/petition/essential/basic-info" rel="noreferrer">
-                        <div><svg></svg></div>Developer Portal
+                        <div><svg></svg></div>Developer Console
                       </a></li>
                     <li><a href="https://devcommunity.x.com" rel="noreferrer">
                         <div><svg></svg></div>Forums
@@ -262,6 +262,60 @@
 
               #sidebar-content {
                 padding-left: 2rem;
+              }
+
+              #injected-slider {
+                max-width: 400px;
+              }
+
+              #cost-estimator-button {
+                position: relative;
+              }
+
+              #cost-estimator-dropdown {
+                min-width: 400px;
+                box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+              }
+
+              #usage-slider {
+                -webkit-appearance: none;
+                appearance: none;
+                height: 6px;
+                background: #e5e7eb;
+                outline: none;
+                border-radius: 3px;
+              }
+
+              .dark #usage-slider {
+                background: rgba(255, 255, 255, 0.1);
+              }
+
+              #usage-slider::-webkit-slider-thumb {
+                -webkit-appearance: none;
+                appearance: none;
+                width: 16px;
+                height: 16px;
+                background: white;
+                border: 2px solid #00BA7C;
+                border-radius: 50%;
+                cursor: pointer;
+              }
+
+              .dark #usage-slider::-webkit-slider-thumb {
+                background: #0B0C0E;
+              }
+
+              #usage-slider::-moz-range-thumb {
+                width: 16px;
+                height: 16px;
+                background: white;
+                border: 2px solid #00BA7C;
+                border-radius: 50%;
+                cursor: pointer;
+              }
+
+              .dark #usage-slider::-moz-range-thumb {
+                background: #0B0C0E;
               }
 
             </style>
@@ -1277,7 +1331,7 @@
                           <div tabindex="-1"><a href="#support-for-oauth-2-0-authentication">​<div><svg fill="gray">
                                   <path></path>
                                 </svg></div></a></div><span>Support for OAuth 2.0 Authentication</span>
-                        </h3><span data-as="p">Today, all developers can now authenticate using OAuth 2.0 by selecting OAuth 2.0 as an authentication method in the developer portal. We’ve added support for confidential and public clients and all relevant v2 endpoints to use this authentication method as part of this release.</span><span data-as="p">OAuth 2.0 is an industry-standard authorization protocol that provides developers more control over an application’s scopes and improves authorization flows across multiple devices. In other words, developers building applications for people on X will have more control over the information their App requests from its users, so that you only have to ask your end-users for the data and information you need.</span><span data-as="p">This modern authorization protocol will allow you to present your end-users with a more streamlined consent flow for authorizing your app, which only displays the specific scopes you have requested from them.</span><span data-as="p">To learn more about this launch, please visit our forum announcement.</span>
+                        </h3><span data-as="p">Today, all developers can now authenticate using OAuth 2.0 by selecting OAuth 2.0 as an authentication method in the Developer Console. We’ve added support for confidential and public clients and all relevant v2 endpoints to use this authentication method as part of this release.</span><span data-as="p">OAuth 2.0 is an industry-standard authorization protocol that provides developers more control over an application’s scopes and improves authorization flows across multiple devices. In other words, developers building applications for people on X will have more control over the information their App requests from its users, so that you only have to ask your end-users for the data and information you need.</span><span data-as="p">This modern authorization protocol will allow you to present your end-users with a more streamlined consent flow for authorizing your app, which only displays the specific scopes you have requested from them.</span><span data-as="p">To learn more about this launch, please visit our forum announcement.</span>
                       </div>
                     </div>
                   </div>
@@ -1610,7 +1664,7 @@
                           <div tabindex="-1"><a href="#improvements-to-teams">​<div><svg fill="gray">
                                   <path></path>
                                 </svg></div></a></div><span>Improvements to Teams</span>
-                        </h3><span data-as="p">Today, we’re launching key improvements to the functionality of teams based on feedback we’ve heard from the community. We have updated the style and design of the team page. We also made changes to the invitation flow to make it easier to invite team members or to learn more about why an invitation might have failed. If you have a team account you can check out the changes by viewing the <a href="https://developer.x.com/en/portal/teams" rel="noreferrer">teams page</a> of the developer portal. To learn more about teams check out our <a href="https://developer.x.com/en/docs/developer-portal/overview#team" rel="noreferrer">documentation on the subject</a> and related <a href="https://developer.x.com/en/docs/developer-portal/faq#dev-portal-management-faq" rel="noreferrer">FAQ</a>.</span><span data-as="p">To learn more about this launch, please visit our <a href="https://devcommunity.x.com/t/announcing-improvements-to-the-functionality-of-teams/155447/2" rel="noreferrer">forum announcement</a>.</span>
+                        </h3><span data-as="p">Today, we’re launching key improvements to the functionality of teams based on feedback we’ve heard from the community. We have updated the style and design of the team page. We also made changes to the invitation flow to make it easier to invite team members or to learn more about why an invitation might have failed. If you have a team account you can check out the changes by viewing the <a href="https://developer.x.com/en/portal/teams" rel="noreferrer">teams page</a> of the Developer Console. To learn more about teams check out our [documentation on the subject](<a href="https://developer.x.com/en/docs/Developer" rel="noreferrer">https://developer.x.com/en/docs/Developer</a> Console/overview#team) and related [FAQ](<a href="https://developer.x.com/en/docs/Developer" rel="noreferrer">https://developer.x.com/en/docs/Developer</a> Console/faq#dev-portal-management-faq).</span><span data-as="p">To learn more about this launch, please visit our <a href="https://devcommunity.x.com/t/announcing-improvements-to-the-functionality-of-teams/155447/2" rel="noreferrer">forum announcement</a>.</span>
                       </div>
                     </div>
                   </div>
@@ -1754,13 +1808,13 @@
                           <div tabindex="-1"><a href="#introduction-of-academic-research-product-track">​<div><svg fill="gray">
                                   <path></path>
                                 </svg></div></a></div><span>Introduction of Academic Research Product Track</span>
-                        </h3><span data-as="p">Today, we are introducing the new <a href="/resources/fundamentals/projects">Academic Research product track</a> to <a href="/x-api/introduction">X API v2</a>. This update introduces a new application process for Academic Researchers that will provide those that are approved with an Academic Research <a href="/resources/fundamentals/projects">Project</a> that will unlock greater access and advanced functionality.</span><span data-as="p">With the new Academic Research product track, you will be able to access the following:</span>
+                        </h3><span data-as="p">Today, we are introducing the new <a href="/resources/fundamentals/developer-apps">Academic Research product track</a> to <a href="/x-api/introduction">X API v2</a>. This update introduces a new application process for Academic Researchers that will provide those that are approved with an Academic Research <a href="/resources/fundamentals/developer-apps">Project</a> that will unlock greater access and advanced functionality.</span><span data-as="p">With the new Academic Research product track, you will be able to access the following:</span>
                         <ul>
                           <li>
                             <span data-as="p">The new X API v2 <a href="/x-api/posts/full-archive-search">full-archive search endpoint</a>, which is only available to the Academic Research product track at this time.</span>
                           </li>
                           <li>
-                            <span data-as="p">An increased <a href="/x-api/fundamentals/post-cap">post cap</a> of 10 million, up from the 500,000 that is available to the <a href="/resources/fundamentals/projects">Standard product track</a> at the Basic <a href="https://developer.x.com/en/products/x-api/early-access/guide#na_2" rel="noreferrer">access level</a>.</span>
+                            <span data-as="p">An increased <a href="/x-api/fundamentals/post-cap">post cap</a> of 10 million, up from the 500,000 that is available to the <a href="/resources/fundamentals/developer-apps">Standard product track</a> at the Basic <a href="https://developer.x.com/en/products/x-api/early-access/guide#na_2" rel="noreferrer">access level</a>.</span>
                           </li>
                           <li>
                             <span data-as="p">New filter operators available to <a href="/x-api/posts/recent-search">recent search</a>, <a href="/x-api/posts/full-archive-search">full-archive search</a>, and <a href="/x-api/posts/filtered-stream">filtered stream</a>, including <code>$</code> (aka cashtag), <code>bio</code> (only available via filtered stream), <code>bio_name</code> (only available via filtered stream), <code>bio_location</code> (only available via filtered stream), <code>place</code>, <code>place_country</code>, <code>point_radius</code>, <code>bounding_box</code>, <code>-is:nullcast</code>, <code>has:cashtags</code> and <code>has:geo</code>.</span>
@@ -1890,7 +1944,7 @@
                               <path></path>
                             </svg></div></a></div>
                       <div contenteditable="false" data-component-part="update-label">Sep 3, 2020</div>
-                      <div contenteditable="false" data-component-part="update-description">post consumption status bar added to the new developer portal experience</div>
+                      <div contenteditable="false" data-component-part="update-description">post consumption status bar added to the new Developer Console experience</div>
                     </div>
                     <div>
                       <div data-component-part="update-content">
@@ -1898,7 +1952,7 @@
                           <div tabindex="-1"><a href="#addition-of-post-consumption-status-bar">​<div><svg fill="gray">
                                   <path></path>
                                 </svg></div></a></div><span>Addition of Post Consumption Status Bar</span>
-                        </h3><span data-as="p">In the <a href="https://developer.x.com/en/portal/dashboard" rel="noreferrer">main dashboard page</a> of the new developer portal, you can now check your usage towards the <a href="/x-api/fundamentals/post-cap">post cap</a> of 500,000 posts per month. This cap is applied at the Project level, across the following v2 endpoints in Basic access: filtered stream, and recent search.</span><span data-as="p">In order to see this feature and use the new v2 endpoints, you will need to activate the <a href="https://developer.x.com/en/portal/opt-in.html" rel="noreferrer">new developer portal experience</a>.</span>
+                        </h3><span data-as="p">In the <a href="https://developer.x.com/en/portal/dashboard" rel="noreferrer">main dashboard page</a> of the new Developer Console, you can now check your usage towards the <a href="/x-api/fundamentals/post-cap">post cap</a> of 500,000 posts per month. This cap is applied at the Project level, across the following v2 endpoints in Basic access: filtered stream, and recent search.</span><span data-as="p">In order to see this feature and use the new v2 endpoints, you will need to activate the <a href="https://developer.x.com/en/portal/opt-in.html" rel="noreferrer">new Developer Console experience</a>.</span>
                       </div>
                     </div>
                   </div>
@@ -2762,9 +2816,9 @@
                     <div>
                       <div data-component-part="update-content">
                         <h3>
-                          <div tabindex="-1"><a href="#access-to-apps-in-developer-portal">​<div><svg fill="gray">
+                          <div tabindex="-1"><a href="#access-to-apps-in-developer-console">​<div><svg fill="gray">
                                   <path></path>
-                                </svg></div></a></div><span>Access to Apps in Developer Portal</span>
+                                </svg></div></a></div><span>Access to Apps in Developer Console</span>
                         </h3><span data-as="p">Today, we’ve added the ability for developers to view and edit their existing <a href="/resources/fundamentals/developer-apps">X apps</a> via the <a href="https://developer.x.com/content/developer-twitter/en/apps" rel="noreferrer">X app dashboard</a> on developer.x.com as long as they’re logged into their X account. Previously, you could only view and edit your existing X apps on developer.x.com if you had applied or been approved for a <a href="/resources/fundamentals/developer-portal">developer account</a>.</span><span data-as="p">You still must have an approved developer account to be able to create new X apps.</span>
                       </div>
                     </div>
@@ -2993,7 +3047,7 @@
                           <div tabindex="-1"><a href="#changes-to-app-creation-and-rate-limits">​<div><svg fill="gray">
                                   <path></path>
                                 </svg></div></a></div><span>Changes to App Creation and Rate Limits</span>
-                        </h3><span data-as="p">As of today, you will no longer be able to create new <a href="/resources/fundamentals/developer-apps">X apps</a> via <a href="https://apps.x.com/" rel="noreferrer">apps.x.com</a>. You will now be redirected to either your <a href="/resources/fundamentals/developer-portal">developer portal</a> account or, if you don’t have a developer portal account yet, to the page where <a href="https://developer.x.com/content/developer-twitter/en/apply-for-access" rel="noreferrer">you can apply</a>.</span><span data-as="p">We also announced that we will be implementing new app-level rate limits to the following POST endpoints on September 10th, 2018.</span>
+                        </h3><span data-as="p">As of today, you will no longer be able to create new <a href="/resources/fundamentals/developer-apps">X apps</a> via <a href="https://apps.x.com/" rel="noreferrer">apps.x.com</a>. You will now be redirected to either your <a href="/resources/fundamentals/developer-portal">Developer Console</a> account or, if you don’t have a Developer Console account yet, to the page where <a href="https://developer.x.com/content/developer-twitter/en/apply-for-access" rel="noreferrer">you can apply</a>.</span><span data-as="p">We also announced that we will be implementing new app-level rate limits to the following POST endpoints on September 10th, 2018.</span>
                         <ul>
                           <li>
                             <span data-as="p"><a href="https://developer.x.com/en/docs/x-api/v1/tweets/post-and-engage/api-reference/post-statuses-update" rel="noreferrer">POST statuses/update</a></span>
@@ -3025,10 +3079,10 @@
                     <div>
                       <div data-component-part="update-content">
                         <h3>
-                          <div tabindex="-1"><a href="#app-management-in-developer-portal">​<div><svg fill="gray">
+                          <div tabindex="-1"><a href="#app-management-in-developer-console">​<div><svg fill="gray">
                                   <path></path>
-                                </svg></div></a></div><span>App Management in Developer Portal</span>
-                        </h3><span data-as="p">If you have a <a href="/resources/fundamentals/developer-portal">developer portal</a> account, you can now create and manage your <a href="/resources/fundamentals/developer-apps">X apps</a>. Please read our <a href="https://devcommunity.x.com/t/app-creation-and-management-now-available-in-the-developer-portal/107723" rel="noreferrer">forum post</a> for more details.</span>
+                                </svg></div></a></div><span>App Management in Developer Console</span>
+                        </h3><span data-as="p">If you have a <a href="/resources/fundamentals/developer-portal">Developer Console</a> account, you can now create and manage your <a href="/resources/fundamentals/developer-apps">X apps</a>. Please read our [forum post](<a href="https://devcommunity.x.com/t/app-creation-and-management-now-available-in-the-Developer" rel="noreferrer">https://devcommunity.x.com/t/app-creation-and-management-now-available-in-the-Developer</a> Console/107723) for more details.</span>
                       </div>
                     </div>
                   </div>
@@ -3417,7 +3471,7 @@
                     <div>
                       <div data-component-part="update-content">
                         <h3>
-                          <div tabindex="-1"><a href="#end-of-support-for-url-contains-operator-in-30-day-search">​<div><svg fill="gray">
+                          <div tabindex="-1"><a href="#end-of-support-for-url_contains-operator-in-30-day-search">​<div><svg fill="gray">
                                   <path></path>
                                 </svg></div></a></div><span>End of Support for url_contains Operator in 30-Day Search</span>
                         </h3><span data-as="p">30-Day and Full-Archive Search ended support for url_contains: operator. Deprecation of this operator was announced as part of the Gnip 2.0 migration in August 2016. Any Search query using the url_contains: Operator will be rejected as invalid.</span>
@@ -3435,7 +3489,7 @@
                     <div>
                       <div data-component-part="update-content">
                         <h3>
-                          <div tabindex="-1"><a href="#upcoming-removal-of-url-contains-operator-in-search-apis">​<div><svg fill="gray">
+                          <div tabindex="-1"><a href="#upcoming-removal-of-url_contains-operator-in-search-apis">​<div><svg fill="gray">
                                   <path></path>
                                 </svg></div></a></div><span>Upcoming Removal of url_contains Operator in Search APIs</span>
                         </h3><span data-as="p">The 30-Day Search API (both 30-Day and Full-Archive) will no longer support the url_contains: operator beginning 30 days from today, or after August 4, 2017 (Support of url_contains: will actually end with the first deploy after that date). Deprecation of this operator was announced as part of the Gnip 2.0 migration in August 2016. When Operator support is ended, any query using the url_contains: will be rejected as invalid.</span>
